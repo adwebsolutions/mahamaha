@@ -1,0 +1,593 @@
+
+/*
+Theme Name: Midnight Child Theme
+Theme URI: http://peenapo.com
+Author: Peenapo
+Author URI: http://themeforest.net/user/Peenapo
+Template: midnight
+Description: Midnight Child Theme. Use this child theme to safely make modifications to the existing theme. Using a child theme ensures that you do not lose the modifications with theme updates.
+Version: 1.0
+*/
+
+
+/*
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+This child theme enables you to make customizations while allowing for safe updates to the parent theme.
+The parent theme's style.css is imported below. If you wish to make customizations, do one of the following:
+
+A.) Copy the contents of [theme-name]/style.css into this file, but leave the (above) child theme head in tact!
+B.) Add specific rules BELOW the import. This is intended for minimal customizations.
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+*/
+@import url("../midnight/style.css");
+body, html {
+    font-weight: 100;
+    font-family: "Raleway",sans-serif;
+    font-size: 12px;
+    line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6, .bw-paged, .bw-share-cell > span, .widget_rss li .rsswidget, .widget_recent_comments, .widget_meta, .widget_pages ul li a, .widget_nav_menu ul li a, .woocommerce table.shop_table td .amount, .woocommerce table.shop_table th, .comment-form-comment label, .comment-form-rating label, .woocommerce-tabs ul.tabs, .bw-mobile-menu, .bw-hm .bw-hm-top .bw-hm-user, .sku_wrapper > span, .tagged_as > span, .posted_in > span, .bw-cproduct .button, .bwpb-pb .bwpb-pb-title, .product_list_widget .amount, .product_list_widget li a, .bw-price, .price_slider_amount, .widget_product_categories .product-categories, .woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count, .woocommerce .woocommerce-ordering select, .bw-account-used-sidebar, .woocommerce table.wishlist_table tbody td, .woocommerce table.wishlist_table thead th, .bw-tags > span, .bw-share > span, .widget_categories, .widget_archive, .bw-date, .widget_product_tag_cloud, .widget_tag_cloud, .nav-posts a, .bw-navigation li a, .bw-modal-title a, .bw-social-separator, .bw-faq-content h3, .bw-faq-title, .woocommerce form .form-row label, .bw-blog-wide .bw-more, .bw-price-label, .bw-menu-nav, .bw-scroller-counter, .bw-newsletter-content input[type="submit"], input[type="submit"], .bw-button, .bw-search-submit, .bw-header, .bw-breadcrumb, .bw-creanim .bw-creanim-bg-text, .bw-quick-look, .price .amount, .bw-variation-label, .bw-creanim-button, .bw-featured-tabs, .bw-deal-counter, .bwpb-testimonial-content > h4, .bw-more ,.bwpb-heading-content{
+    font-family: "Raleway",sans-serif !important;
+}
+h4{
+    font-size: 16px;
+}
+.bw-title-inner::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -8px;
+    width: 50px;
+    height: 3px;
+    color: #29b473;
+    background-color: #29b473;
+}
+.bwpb-heading-section.lt-bg, .bwpb-heading-section.rt-bg, .bwpb-heading-section.lm-bg {
+    margin-bottom: 0 !important;
+}
+.bwpb-heading-section.lt-bg .bwpb-heading-content, .bwpb-heading-section.rt-bg .bwpb-heading-content, .bwpb-heading-section.lm-bg .bwpb-heading-content {
+    margin-top: 0 !important;
+}
+
+.bwpb-heading-section .bwpb-heading-line::after {
+    background-color: transparent;
+}
+.bwpb-heading-section .bwpb-heading-line::before {
+    content: url('http://localhost:2100/maha-maha/wp-content/uploads/2017/06/header-span-bg.jpg');
+    position: absolute;
+    top: 0;
+    height: 0;
+    background-color: transparent;
+}
+.bwpb-heading-section .bwpb-heading-line.bw-hl-left::before {
+    left: auto;
+    right:0;
+}
+.bwpb-heading-section .bwpb-heading-line.bw-hl-right::before {
+    right: auto;
+    left:0;
+}
+.bwpb-heading-section .bwpb-heading-title {
+    color: #373737 !important;
+    position: relative;
+    z-index: 1;
+}
+.bwpb-heading-section.rt-bg .bwpb-heading-line::before {
+    top:50%;
+}
+.bwpb-heading-section.rt-bg .bwpb-heading-title {
+    padding-top: 50px;
+}
+.bwpb-heading-section.rt-bg.big-h .bwpb-heading-title {
+    font-size: 40px;
+    text-transform: none;
+}
+.bwpb-heading-section.rt-bg .bwpb-heading-title:before {
+    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
+    margin-left: -100px;
+    top: 5px;
+    position: absolute;
+    z-index: -1;
+}
+.bwpb-heading-section.lt-bg .bwpb-heading-title {
+    padding-bottom: 50px;
+}
+.bwpb-heading-section.lt-bg .bwpb-heading-title:after {
+    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
+    margin-left: -34px;
+    top: 5px;
+    position: absolute;
+    z-index: -1;
+}
+.bwpb-heading-section.lm-bg .bwpb-heading-title {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.bwpb-heading-section.lm-bg .bwpb-heading-title:after {
+    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
+    margin-left: -34px;
+    top: 0;
+    position: absolute;
+    z-index: -1;
+}
+.bwpb-heading-section.bw-heading-align-center .bwpb-heading-title {
+    max-width: 400px;
+}
+.bwpb-heading-section.n-hr .bwpb-heading-line::before {
+    content: "";
+}
+.bwpb-heading-section.white-hr .bwpb-heading-title {
+    color: #ffffff !important;
+    letter-spacing: 6px !important;
+}
+/*header*/
+.top-bar {
+    background: #29B473;
+    line-height: 48px;
+    height: 50px;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+    position: relative;
+}
+.top-bar-wrapper {
+    width: 100%;
+    max-width: 1120px;
+    margin: 0 auto;
+}
+.top-bar-left-info, .top-bar-right-info {
+    width: 50%;
+    float: left;
+}
+.top-bar-left-info {
+    max-height: 50px;
+    overflow: hidden;
+}
+.top-bar-left-info .bw-social {
+    display: inline-block;
+}
+.top-bar-left-info .bw-social .icon {
+    font-size: 42px;
+    line-height: 40px;
+    color: #fff;
+}
+.top-bar-right-info {
+    text-align: right;
+}
+.top-bar-right-info span.email-box {
+    display: inline-block;
+}
+.top-bar-right-info span.email-box a{
+    color: #ffffff;
+}
+.top-bar-right-info .bw-setting-icon {
+    display: inline-block !important;
+}
+.top-bar-right-info .bw-setting-icon:hover {
+    background: transparent;
+}
+.top-bar-right-info .bw-setting-icon i {
+    color: #fff;
+    font-size: 24px;
+}
+.bw-header {
+    z-index: 2;
+}
+.home .bw-header {
+    background: transparent;
+}
+.home .bw-header.enable-sticky {
+    background: #29b473;
+}
+.home .bw-container {
+    position: relative;
+    /*margin-top: -125px;*/
+}
+.home .bw-header-v2 .bw-navigation ul li a {
+    color: #ffffff;
+    font-weight: 600;
+}
+.home .bw-header .bw-navigation ul li a:hover, .home .bw-navigation ul li.current-menu-item > a {
+    color: #ffffff !important;
+    text-decoration: underline;
+}
+
+.bw-header.bw-header-v2 {
+    top:50px;
+    position: absolute;
+    height: 125px;
+    box-shadow: none;
+}
+.bw-header.bw-header-v2.enable-sticky {
+    box-shadow: 0 2px 5px -1px rgba(0,0,0,0.08);
+    position: fixed;
+}
+.bw-header.bw-is-sticky:not(.bw-is-bottom) {
+    top:50px;
+}
+.bw-header-wrapped {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+.bw-header-v2 .bw-top-settings {
+    width: auto !important;
+}
+/*breadcrumb*/
+.bw-breadcrumb {
+    line-height: 40px;
+}
+.bw-breadcrumb ul {
+    width: 100%;
+    font-size: 0;
+    list-style: none;
+    max-width: 1120px;
+    margin: 0 auto;
+    text-align: right;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+.bw-breadcrumb ul li a::after {
+    content: '|';
+    position: absolute;
+    top: 0;
+    right: 18px;
+    color: #29b473;
+}
+/**/
+ul.info-box-cs {
+    margin-left: 0;
+    padding: 0;
+    list-style: none;
+}
+.info-box-cs li {
+    position: relative;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+.info-box-cs li a {
+    color: #333;
+}
+.info-box-cs i {
+    position: absolute;
+    left: 0;
+    line-height: 24px;
+    color: #29b473;
+}
+/**/
+.bw-footer {
+    border-top: 1px solid #29b473;
+}
+.bw-footer .bw-col {
+    border-right: 1px solid #29b473;
+}
+.bw-footer-copy {
+    border-top: 1px solid #29b473;
+    color: #29b473;
+}
+.bw-footer-copy a {
+    color: #29b473;
+}
+.widget-title::after {
+    bottom: -8px;
+    height: 3px;
+}
+.widget .bw-footer-social li a {
+    color: rgba(41,180,115,0.6);
+}
+.widget_nav_menu ul li a {
+    display: inline
+}
+.menu-footer-direct-links-container .menu {
+    list-style: url("http://localhost:2100/maha-maha/wp-content/uploads/2015/10/footer-list-ico.jpg");
+    list-style-position: inside;
+}
+/*HOME*/
+
+.bw-creanim {
+    height: 750px;
+}
+.bw-creanim-content.bw-creanim-position-center-bottom {
+    left: 50%;
+    bottom: 100px;
+}
+.bw-creanim-box .bw-creanim-summary {
+    text-transform: none;
+    font-size: 17px;
+    color: #ffffff;
+    letter-spacing: 4px !important;
+}
+
+.slide3 .bw-creanim-box h3{
+    width: 45%;
+    white-space: normal;
+}
+.bw-slider .owl-page {
+    width: 57px;
+    border-bottom: 0;
+    position: relative;
+}
+.bw-slider .owl-page:before {
+    content: url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/slide-page.png");
+    position: absolute;
+    top:0;
+    left: 0;
+}
+.bw-slider .owl-page.active {
+    border-bottom: 0;
+}
+.bw-slider .owl-page.active:before {
+    content: url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/slide-page-active.png");
+}
+.bw-slider .owl-controls .owl-pagination {
+    bottom: 50px;
+}
+/*product feature*/
+/* featured products */
+.bw-featured-cat-tabs {width:100%;display:block;text-align:center;margin:0 0 30px 0;list-style:none;}
+.bw-featured-cat-tabs li {display:inline-block;padding:10px 26px;font-size:16px;text-transform:uppercase;color:#b5b5b5;position:relative;transition:color .3s;cursor:pointer;}
+.bw-featured-cat-tabs li.bw-active {color:#000;}
+.bw-featured-cat-tabs li:after {content:'\f00d';font-family:'FontAwesome';position:absolute;top:9px;right:-4px;font-size:8px;}
+.bw-featured-cat-tabs li:last-child:after {content:none;}
+
+.bw-featured-cat-products {width:100%;position:relative;}
+.bw-featured-cat-products .products {transition:opacity .3s;}
+.bw-featured-cat-products.bw-ajaxing .products {opacity:0.3!important;}
+.bw-featured-tabs li:hover {color: #29b473;}
+/*home blocks*/
+.bw-clls-5 .bw-cll-4 {
+    width: 75%;
+}
+.bw-clls-5 .bw-cll-4 .bw-cll-inner {
+    right: 0;
+}
+.bw-cll-inner .bw-cll-over {
+    background-color: #29b473;
+}
+.bw-cll .bw-title {
+    font-weight: 600;
+    font-size: 30px;
+}
+.bw-cll .bw-cont.bw-cll-pos-center-top .bw-cell {
+    vertical-align: middle !important;
+}
+    /*block 1*/
+.bw-clls .bw-cll-1 .bw-title {
+    font-size: 30px !important;
+}
+.bw-clls .bw-cll-1 .bw-cll-inner:hover .bw-title {
+    color: #ffffff;
+}
+    /*block 2*/
+.bw-clls .bw-cll-2 .bw-table {
+    display: table !important;
+    text-align: center;
+}
+.bw-clls .bw-cll-2 .bw-cont .bw-cell {
+    text-align: center;
+    padding: 0 !important;
+}
+.bw-clls .bw-cll-2 .bw-title {
+    color: #ffffff !important;
+}
+.bw-clls .bw-cll-2 .bw-title:after {
+    content:url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/col-block-heading-bg.png");
+    display: inherit;
+    margin-top: 20px;
+}
+    /*block 3*/
+.bw-clls .bw-cll-3 .bw-title {
+    color: #ffffff !important;
+}
+    /*block 4*/
+.bw-cll.bw-cll-4 .bw-cont {
+    right: 6%;
+}
+.bw-clls .bw-cll-4 .bw-cll-inner:hover .bw-title {
+    color: #ffffff;
+}
+/*icon-box-columns*/
+.icon-box-col .bwpb-colwidth-2 {
+    border-left: 1px solid rgba(41,180,115,0.5);
+}
+.icon-box-col .bwpb-colwidth-2.no-br-left {
+    border-left:0;
+}
+.bwpb-column.centered-col.white-text {
+    text-align: center;
+}
+.bwpb-column.white-text .bwpb-heading-section .bwpb-heading-title, .bwpb-column.white-text .bwpb-heading-section .bwpb-heading-content, .bwpb-column.white-text .bw-social .icon, .bwpb-column.white-text a {
+    color: #ffffff !important;
+    font-weight: bold;
+    font-size: 35px !important;
+}
+.bwpb-column.white-text ul.bw-social {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.bwpb-column.white-text .bw-social li {
+    display: inline-block!important;
+}
+.bwpb-column.white-text .bw-social a {
+    font-size: 80px !important;
+    font-weight: 400;
+    line-height: 80px;
+}
+.bwpb-column.white-text .bw-social .icon {
+    font-size: 150px !important;
+    font-weight: 400;
+    line-height: 80px;
+}
+.bwpb-column.white-text .bwpb-heading-section .bwpb-heading-content {
+    font-size: 16px !important;
+    line-height: 24px;
+}
+/*contact form*/
+.cs-row {
+    display: block;
+    clear: both;
+}
+.cs-col3 {
+    width:32%;
+    display: table-cell;
+    position: relative;
+    padding-right: 2%;
+}
+.cs-col3:last-child {
+    padding-right: 0;
+}
+.news-form {
+    text-align: right;
+}
+.news-form .your-email {
+    display: inline;
+}
+.news-form .your-email .wpcf7-form-control {
+    width: 60%;
+    font-size: 20px;
+}
+.news-form input[type="submit"] {
+    background: transparent;
+    font-weight: bold;
+    font-size: 18px;
+}
+.news-form input[type="submit"]:hover {
+    background: rgba(41,180,115,0.5);
+}
+/*woocommerce*/
+.bw-content-shop > .bw-content-shop {
+    margin-top: 0 !important;
+}
+.bw-quick-look {
+    width: 100%;
+    display: block;
+    margin: 7px 0 0 0;
+    background-color: #666666;
+    color: #ffffff;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 20px;
+    font-weight: 700;
+}
+.woocommerce ul.products li.product h3 {
+    text-transform: uppercase !important;
+    color: #666666 !important;
+    font-weight: 400;
+}
+.link-product {
+    width: 100%;
+    display: block;
+    margin: 7px 0 0 0;
+    background-color: #666666;
+    color: #ffffff;
+    font-size: 11px;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 20px;
+    font-weight: 700;
+}
+a.link-product:hover {
+	background:#29b473;
+}
+h2.woocommerce-loop-product__title {
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-align: center;
+    margin: 20px 0;
+}
+.related.products {
+    border-top: 1px solid #666666;
+    padding-top: 40px;
+}
+
+.related.products .bwpb-heading-section {
+    margin-bottom: 30px !important;
+}
+.woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
+    background-color: #29b473;
+}
+@media screen and (max-width: 1279px){
+    .bwpb-column {
+        min-height: 0 !important;
+        height: auto !important;
+    }
+}
+@media screen and (max-width: 1024px){
+    .top-bar {
+        display: none;
+    }
+    .bw-hm .bw-hm-top {
+        background: #29B473 !important;
+    }
+    .bw-hm .bw-hm-top .bw-hm-user, .bw-hm .bw-hm-top .bw-hm-search-icon {
+        color: #ffffff !important;
+    }
+    .bw-hm .bw-hm-main .bw-hm-logo img {
+        max-height: 80px;
+        padding: 10px;
+    }
+    .bwpb-heading-section.lt-bg .bwpb-heading-title, .bwpb-heading-section.lm-bg .bwpb-heading-title {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+    }
+    .bwpb-heading-section.lt-bg .bwpb-heading-title:after {
+        margin-left: -50px;
+        position: absolute;
+        z-index: -1;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .contact-row  .bwpb-colwidth-2 {
+        width: 49% !important;
+        display: table-cell;
+    }
+}
+
+@media screen and (max-width: 979px){
+    .bw-clls-5 .bw-cll-4 {
+        width: 100%;
+    }
+    .bw-footer .bw-col {
+        width: 49% !important;
+    }
+}
+@media screen and (max-width: 768px){
+    .bw-creanim-box h3 {
+        font-size: 14px;
+    }
+    .bwpb-row-inner {
+        padding: 15px 0 !important;
+    }
+    .icon-box-col .bwpb-colwidth-2 {
+        border-left: 0 !important;
+    }
+    .bwpb-column.white-text .bw-social .icon {
+        font-size: 100px !important;
+    }
+    .bwpb-column.white-text .bwpb-heading-section .bwpb-heading-title, .bwpb-column.white-text a {
+        font-size: 25px !important;
+    }
+    .bw-heading-align-right {
+        text-align: center;
+    }
+    .news-form .your-email .wpcf7-form-control {
+        width: 90%;
+        margin: 0 5%;
+    }
+    .news-form input[type="submit"] {
+        margin: 0 auto;
+        display: block;
+    }
+}
+@media screen and (max-width: 480px) {
+    .bw-footer {
+        width: 92%;
+    }
+}

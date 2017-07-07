@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<sku><![CDATA[MAHA01]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Tulum]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con rosa]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado rosa,  ideal para lucirlo en playa y alberca.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Negro con manchas de color rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA01CH]]></sku>
+		<hijo><![CDATA[MAHA01]]></hijo>
+		<nombre><![CDATA[Tulum]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con rosa]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado rosa,  ideal para lucirlo en playa y alberca.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Negro con manchas de color rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA01M]]></sku>
+		<hijo><![CDATA[MAHA01]]></hijo>
+		<nombre><![CDATA[Tulum]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con rosa]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado rosa,  ideal para lucirlo en playa y alberca.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[15]]></inventario>
+		<atributocolor><![CDATA[Negro con manchas de color rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA01G]]></sku>
+		<hijo><![CDATA[MAHA01]]></hijo>
+		<nombre><![CDATA[Tulum]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con rosa]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado rosa,  ideal para lucirlo en playa y alberca.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[20]]></inventario>
+		<atributocolor><![CDATA[Negro con manchas de color rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA02]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Milicia]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con verde militar]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado verde militar. creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Negro con verde camuflajeado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA02CH]]></sku>
+		<hijo><![CDATA[MAHA02]]></hijo>
+		<nombre><![CDATA[Milicia]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con verde militar]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado verde militar. creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[5]]></inventario>
+		<atributocolor><![CDATA[Negro con verde camuflajeado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA02M]]></sku>
+		<hijo><![CDATA[MAHA02]]></hijo>
+		<nombre><![CDATA[Milicia]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con verde militar]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado verde militar. creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Negro con verde camuflajeado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA02G]]></sku>
+		<hijo><![CDATA[MAHA02]]></hijo>
+		<nombre><![CDATA[Milicia]]></nombre>
+		<descripcincorta><![CDATA[Traje de baño completo, negro con verde militar]]></descripcincorta>
+		<descripcinlarga><![CDATA[Traje de baño completo, negro con estampado verde militar. creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Traje completo]]></categora>
+		<subcategora><![CDATA[]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Negro con verde camuflajeado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA03]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[María]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color negro]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color negro, con top tipo Bralette y acabado elegante, ideal para lucirlo en color negro.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA03CH]]></sku>
+		<hijo><![CDATA[MAHA03]]></hijo>
+		<nombre><![CDATA[María]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color negro]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color negro, con top tipo Bralette y acabado elegante, ideal para lucirlo en color negro.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Negro]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA03 M]]></sku>
+		<hijo><![CDATA[MAHA03]]></hijo>
+		<nombre><![CDATA[María]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color negro]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color negro, con top tipo Bralette y acabado elegante, ideal para lucirlo en color negro.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Negro]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA03 G]]></sku>
+		<hijo><![CDATA[MAHA03]]></hijo>
+		<nombre><![CDATA[María]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color negro]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color negro, con top tipo Bralette y acabado elegante, ideal para lucirlo en color negro.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Negro]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA04]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Balandra]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color blanco]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color blanco,  con top tipo Bralette y acabado elegante, ideal para lucirlo en color blanco.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA04CH]]></sku>
+		<hijo><![CDATA[MAHA04]]></hijo>
+		<nombre><![CDATA[Balandra]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color blanco]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color blanco,  con top tipo Bralette y acabado elegante, ideal para lucirlo en color blanco.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA04M]]></sku>
+		<hijo><![CDATA[MAHA04]]></hijo>
+		<nombre><![CDATA[Balandra]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color blanco]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color blanco,  con top tipo Bralette y acabado elegante, ideal para lucirlo en color blanco.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA04G]]></sku>
+		<hijo><![CDATA[MAHA04]]></hijo>
+		<nombre><![CDATA[Balandra]]></nombre>
+		<descripcincorta><![CDATA[Bikini de color blanco]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas en color blanco,  con top tipo Bralette y acabado elegante, ideal para lucirlo en color blanco.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini Bralette]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color Blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA05]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Mahawal]]></nombre>
+		<descripcincorta><![CDATA[Bikini blanco con estampado azul con naranja]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabado elegante (top y calzon con lineas) con combinaciones blancas y tela de color azul marino con naranja, creado para lucir tropicalmente bella.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA05CH]]></sku>
+		<hijo><![CDATA[MAHA05]]></hijo>
+		<nombre><![CDATA[Mahawal]]></nombre>
+		<descripcincorta><![CDATA[Bikini blanco con estampado azul con naranja]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabado elegante (top y calzon con lineas) con combinaciones blancas y tela de color azul marino con naranja, creado para lucir tropicalmente bella.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Azul marino con naranja y blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA05M]]></sku>
+		<hijo><![CDATA[MAHA05]]></hijo>
+		<nombre><![CDATA[Mahawal]]></nombre>
+		<descripcincorta><![CDATA[Bikini blanco con estampado azul con naranja]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabado elegante (top y calzon con lineas) con combinaciones blancas y tela de color azul marino con naranja, creado para lucir tropicalmente bella.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Azul marino con naranja y blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA05G]]></sku>
+		<hijo><![CDATA[MAHA05]]></hijo>
+		<nombre><![CDATA[Mahawal]]></nombre>
+		<descripcincorta><![CDATA[Bikini blanco con estampado azul con naranja]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabado elegante (top y calzon con lineas) con combinaciones blancas y tela de color azul marino con naranja, creado para lucir tropicalmente bella.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Azul marino con naranja y blanco]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA06]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Atardecer]]></nombre>
+		<descripcincorta><![CDATA[Bikini color rojo]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabados elegantes (top y calzon con lineas) en color rojo. Creado para combinarlo con un atardecer de playa.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA06CH]]></sku>
+		<hijo><![CDATA[MAHA06]]></hijo>
+		<nombre><![CDATA[Atardecer]]></nombre>
+		<descripcincorta><![CDATA[Bikini color rojo]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabados elegantes (top y calzon con lineas) en color rojo. Creado para combinarlo con un atardecer de playa.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color rojo]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA06M]]></sku>
+		<hijo><![CDATA[MAHA06]]></hijo>
+		<nombre><![CDATA[Atardecer]]></nombre>
+		<descripcincorta><![CDATA[Bikini color rojo]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabados elegantes (top y calzon con lineas) en color rojo. Creado para combinarlo con un atardecer de playa.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color rojo]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA06G]]></sku>
+		<hijo><![CDATA[MAHA06]]></hijo>
+		<nombre><![CDATA[Atardecer]]></nombre>
+		<descripcincorta><![CDATA[Bikini color rojo]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas con acabados elegantes (top y calzon con lineas) en color rojo. Creado para combinarlo con un atardecer de playa.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de lineas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Color rojo]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA07]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Coco]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon.]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes en color blanco y calzon con figuras de mandalas en color morado, ideal para lucir a la moda.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA07CH]]></sku>
+		<hijo><![CDATA[MAHA07]]></hijo>
+		<nombre><![CDATA[Coco]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon.]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes en color blanco y calzon con figuras de mandalas en color morado, ideal para lucir a la moda.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Top olan (blanco) con calzon mandala morado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA07M]]></sku>
+		<hijo><![CDATA[MAHA07]]></hijo>
+		<nombre><![CDATA[Coco]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon.]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes en color blanco y calzon con figuras de mandalas en color morado, ideal para lucir a la moda.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Top olan (blanco) con calzon mandala morado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA07G]]></sku>
+		<hijo><![CDATA[MAHA07]]></hijo>
+		<nombre><![CDATA[Coco]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon.]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes en color blanco y calzon con figuras de mandalas en color morado, ideal para lucir a la moda.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[10]]></inventario>
+		<atributocolor><![CDATA[Top olan (blanco) con calzon mandala morado]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA08]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Kai]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon en color azul]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes y calzon en color azul,  ideal para lucirlo y combinarlo con el azul del mar.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA08CH]]></sku>
+		<hijo><![CDATA[MAHA08]]></hijo>
+		<nombre><![CDATA[Kai]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon en color azul]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes y calzon en color azul,  ideal para lucirlo y combinarlo con el azul del mar.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top de olanes, bikini completo en color azul]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA08M]]></sku>
+		<hijo><![CDATA[MAHA08]]></hijo>
+		<nombre><![CDATA[Kai]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon en color azul]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes y calzon en color azul,  ideal para lucirlo y combinarlo con el azul del mar.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top de olanes, bikini completo en color azul]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA08G]]></sku>
+		<hijo><![CDATA[MAHA08]]></hijo>
+		<nombre><![CDATA[Kai]]></nombre>
+		<descripcincorta><![CDATA[Bikini top con olanes y calzon en color azul]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top con olanes y calzon en color azul,  ideal para lucirlo y combinarlo con el azul del mar.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini de olanes]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$599]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top de olanes, bikini completo en color azul]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA09]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Colorados]]></nombre>
+		<descripcincorta><![CDATA[Bikini rosa con flores de colores]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top de flores con acabados en color rosa, con acabados elegantes y creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini triangulo]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico|Mediano|Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA09CH]]></sku>
+		<hijo><![CDATA[MAHA09]]></hijo>
+		<nombre><![CDATA[Colorados]]></nombre>
+		<descripcincorta><![CDATA[Bikini rosa con flores de colores]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top de flores con acabados en color rosa, con acabados elegantes y creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini triangulo]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top en forma de triangulo floral con calzon rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Chico]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA09M]]></sku>
+		<hijo><![CDATA[MAHA09]]></hijo>
+		<nombre><![CDATA[Colorados]]></nombre>
+		<descripcincorta><![CDATA[Bikini rosa con flores de colores]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top de flores con acabados en color rosa, con acabados elegantes y creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini triangulo]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top en forma de triangulo floral con calzon rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Mediano]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA09G]]></sku>
+		<hijo><![CDATA[MAHA09]]></hijo>
+		<nombre><![CDATA[Colorados]]></nombre>
+		<descripcincorta><![CDATA[Bikini rosa con flores de colores]]></descripcincorta>
+		<descripcinlarga><![CDATA[Bikini de dos piezas, top de flores con acabados en color rosa, con acabados elegantes y creado para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Bikini de dos piezas]]></categora>
+		<subcategora><![CDATA[Bikini triangulo]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Top en forma de triangulo floral con calzon rosa]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[Grande]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA10]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Paraiso]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa con diseños de aves tropicales]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa con coloridas aves tropicales, creada para descansar y tomar el sol en la playa.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cuadrada]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$459]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Rosa con aves de colores]]></atributocolor>
+		<atributotamao><![CDATA[Aves tropicales 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA11]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa con estilo unico mexicano]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa con un estilo unico de formas y texturas huicholes,creada para llevar el corazon de mexico a playas de todo el mundo.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[Texturas Huicholes 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA12]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Flamingos]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa con flamingos rosados]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa, diseñada con la belleza de los flamingos rosados, perfecta para llevarla a tus viajes de playa.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Flamingos rosados]]></atributocolor>
+		<atributotamao><![CDATA[Flamingos 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA13]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Atardecer]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, con paisaje atardecer]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa,  refleja un atardecer del Caribe Mexicano.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cuadrada]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$459]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Atardecer]]></atributocolor>
+		<atributotamao><![CDATA[Atardecer 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA14]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Eclipse]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, con paisaje de Luna y Sol]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa, con un diseño que fusiona la belleza del sol y la luna]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[Eclipse 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA15]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Pura vida]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa con diseños de olas de mar]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta "pura vida" para pasar experiencias playeras a lo grande]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Circular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$459]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Kai-mar]]></atributocolor>
+		<atributotamao><![CDATA[Pura Vida 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA16]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, inspirada en los colores y texturas mexicanas]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa, inspirada en los colores y texturas de la cultura mexicana]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Mandala]]></atributocolor>
+		<atributotamao><![CDATA[Mandala 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA17]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Frutal]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, frutas tropicales]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa, diseñada con una combinacion de frutas tropicales.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cuadrada]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$449]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Frutal]]></atributocolor>
+		<atributotamao><![CDATA[Frutal 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA18]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, decorada con un diseño de palmas tropicales]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa, creada con un estilo que plasma la belleza de lo tropical, el accesorio perfecto para para lucir espectacular.]]></descripcinlarga>
+		<categora><![CDATA[Mantas]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical]]></atributocolor>
+		<atributotamao><![CDATA[Tropical 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA19]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Acuarela arcoiris]]></nombre>
+		<descripcincorta><![CDATA[Maha Manta de playa, Arcoiris]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Manta de playa Arcoiris, para llevar toda tu buena energia siempre.]]></descripcinlarga>
+		<categora><![CDATA[]]></categora>
+		<subcategora><![CDATA[Manta Cicular]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$549]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[Arcoiris 1 x 1]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA20]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22|23|24|25|26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2022]]></sku>
+		<hijo><![CDATA[MAHA20]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2023]]></sku>
+		<hijo><![CDATA[MAHA20]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[23]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2024]]></sku>
+		<hijo><![CDATA[MAHA20]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[24]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2025]]></sku>
+		<hijo><![CDATA[MAHA20]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[25]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2026]]></sku>
+		<hijo><![CDATA[MAHA20]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA21]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22|23|24|25|26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2122]]></sku>
+		<hijo><![CDATA[MAHA21]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2123]]></sku>
+		<hijo><![CDATA[MAHA21]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[23]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2124]]></sku>
+		<hijo><![CDATA[MAHA21]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[24]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2125]]></sku>
+		<hijo><![CDATA[MAHA21]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[25]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2126]]></sku>
+		<hijo><![CDATA[MAHA21]]></hijo>
+		<nombre><![CDATA[Eclipse (luna y sol)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA22]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22|23|24|25|26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2222]]></sku>
+		<hijo><![CDATA[MAHA22]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2223]]></sku>
+		<hijo><![CDATA[MAHA22]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[23]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2224]]></sku>
+		<hijo><![CDATA[MAHA22]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[24]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2225]]></sku>
+		<hijo><![CDATA[MAHA22]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[25]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2226]]></sku>
+		<hijo><![CDATA[MAHA22]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA23]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22|23|24|25|26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2322]]></sku>
+		<hijo><![CDATA[MAHA23]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2323]]></sku>
+		<hijo><![CDATA[MAHA23]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[23]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2324]]></sku>
+		<hijo><![CDATA[MAHA23]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[24]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2325]]></sku>
+		<hijo><![CDATA[MAHA23]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[25]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2326]]></sku>
+		<hijo><![CDATA[MAHA23]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Paraiso (aves)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA24]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[]]></marca>
+		<precio><![CDATA[N/A]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22|23|24|25|26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2422]]></sku>
+		<hijo><![CDATA[MAHA24]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[22]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2423]]></sku>
+		<hijo><![CDATA[MAHA24]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[23]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2424]]></sku>
+		<hijo><![CDATA[MAHA24]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[24]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2425]]></sku>
+		<hijo><![CDATA[MAHA24]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[25]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA2426]]></sku>
+		<hijo><![CDATA[MAHA24]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Sandalias de playa y alberca]]></descripcincorta>
+		<descripcinlarga><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Sandalias]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$129]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[26]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA25]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Sayulita]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Texturas Huicholes]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA26]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Raices (colores mexicanos)]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Raices (colores mexicanos)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA27]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Frutal]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Frutal]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA28]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Tropical (palmas)]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA29]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Eclipse]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Bicolor]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA30]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Flamingos]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Flamingos rosados]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA31]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Arcoiris]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Arcoiris]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA32]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Mandala]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Mandala]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA33]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Natural]]></nombre>
+		<descripcincorta><![CDATA[Cojines decorativos para interior y exterior]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></descripcinlarga>
+		<categora><![CDATA[Sillas y cojines]]></categora>
+		<subcategora><![CDATA[Cojines]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$299]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Natural]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA34]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[México]]></nombre>
+		<descripcincorta><![CDATA[Maha Toallas para lucir en todo momento]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Toallas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$349]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Colores mexicanos]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA35]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Pura vida]]></nombre>
+		<descripcincorta><![CDATA[Maha Toallas para lucir en todo momento]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Toallas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$349]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Kai-mar]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA36]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Tropical (palmas)]]></nombre>
+		<descripcincorta><![CDATA[Maha Toallas para lucir en todo momento]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Toallas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$349]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Estampado de palmas]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA37]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Frutal]]></nombre>
+		<descripcincorta><![CDATA[Maha Toallas para lucir en todo momento]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Toallas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$349]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Estampado de frutas]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+	<node>
+		<sku><![CDATA[MAHA38]]></sku>
+		<hijo><![CDATA[]]></hijo>
+		<nombre><![CDATA[Paraiso (aves)]]></nombre>
+		<descripcincorta><![CDATA[Maha Toallas para lucir en todo momento]]></descripcincorta>
+		<descripcinlarga><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></descripcinlarga>
+		<categora><![CDATA[Accesorios]]></categora>
+		<subcategora><![CDATA[Toallas]]></subcategora>
+		<imagen><![CDATA[]]></imagen>
+		<marca><![CDATA[Mahamaha]]></marca>
+		<precio><![CDATA[$349]]></precio>
+		<inventario><![CDATA[]]></inventario>
+		<atributocolor><![CDATA[Estampado de aves]]></atributocolor>
+		<atributotamao><![CDATA[]]></atributotamao>
+		<tallan1><![CDATA[]]></tallan1>
+	</node>
+</data>

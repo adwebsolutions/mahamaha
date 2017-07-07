@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[Tipo de producto ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[CODIGO]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[NOMBRE]]></undefined2>
+		<undefined3><![CDATA[DESCRPCIÓN CORTA]]></undefined3>
+		<undefined4><![CDATA[DESCRIPCIÓN LARGA]]></undefined4>
+		<undefined5><![CDATA[CATEGORÍA]]></undefined5>
+		<undefined6><![CDATA[SUBCATEGORÍA]]></undefined6>
+		<undefined7><![CDATA[MARCA/FABRICANTE]]></undefined7>
+		<undefined8><![CDATA[PRECIO]]></undefined8>
+		<undefined9><![CDATA[DESCUENTO %]]></undefined9>
+		<undefined10><![CDATA[INVENTARIO]]></undefined10>
+		<undefined11><![CDATA[IMAGEN]]></undefined11>
+		<undefined12><![CDATA[ATRIBUTO 1 (ej: color)]]></undefined12>
+		<undefined13><![CDATA[ATRIBUTO 2 (ej: talla)]]></undefined13>
+		<undefined14><![CDATA[DESTACADO]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Trajes de baño completo]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 1 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Tulum ]]></undefined2>
+		<undefined3><![CDATA[Traje de baño completo, negro con rosa]]></undefined3>
+		<undefined4><![CDATA[Traje de baño completo, negro con estampado rosa,  ideal para lucirlo en playa y alberca. ]]></undefined4>
+		<undefined5><![CDATA[Completo ]]></undefined5>
+		<undefined6><![CDATA[Traje completo ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Negro con manchas de color rosa ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Trajes de baño completo]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 2 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Milicia ]]></undefined2>
+		<undefined3><![CDATA[Traje de baño completo, negro con verde militar]]></undefined3>
+		<undefined4><![CDATA[Traje de baño completo, negro con estampado verde militar. creado para lucir espectacular.   ]]></undefined4>
+		<undefined5><![CDATA[Completo ]]></undefined5>
+		<undefined6><![CDATA[Traje completo ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[5 CH, 10 M, 10 G.]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Negro con verde camuflajeado ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 3 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Maria ]]></undefined2>
+		<undefined3><![CDATA[Bikini de color negro ]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas en color negro, con top tipo Bralette y acabado elegante, ideal para lucirlo en color negro. ]]></undefined4>
+		<undefined5><![CDATA[Bikini bralette]]></undefined5>
+		<undefined6><![CDATA[Bikini de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Negro ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 4 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Balandra ]]></undefined2>
+		<undefined3><![CDATA[Bikini de color blanco ]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas en color blanco,  con top tipo Bralette y acabado elegante, ideal para lucirlo en color blanco.  ]]></undefined4>
+		<undefined5><![CDATA[Bikini bralette]]></undefined5>
+		<undefined6><![CDATA[Bikini de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Blanco ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 5 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Mahawal ]]></undefined2>
+		<undefined3><![CDATA[Bikini blanco con estampado azul con naranja ]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas con acabado elegante (top y calzon con lineas) con combinaciones blancas y tela de color azul marino con naranja, creado para lucir tropicalmente bella.  ]]></undefined4>
+		<undefined5><![CDATA[Bikini lineas ]]></undefined5>
+		<undefined6><![CDATA[Bikini de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Azul marino con naranja y blanco ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 6 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Atardecer]]></undefined2>
+		<undefined3><![CDATA[Bikini color rojo]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas con acabados elegantes (top y calzon con lineas) en color rojo. Creado para combinarlo con un atardecer de playa. ]]></undefined4>
+		<undefined5><![CDATA[Bikini lineas ]]></undefined5>
+		<undefined6><![CDATA[Bikini de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Color rojo ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 7 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Coco ]]></undefined2>
+		<undefined3><![CDATA[Bikini top con olanes y calzon.]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas, top con olanes en color blanco y calzon con figuras de mandalas en color morado, ideal para lucir a la moda. ]]></undefined4>
+		<undefined5><![CDATA[Bikini olanes ]]></undefined5>
+		<undefined6><![CDATA[Bikini olanes de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Top olan (blanco) con calzon mandala morado ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 8 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Kai ]]></undefined2>
+		<undefined3><![CDATA[Bikini top con olanes y calzon en color azul ]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas, top con olanes y calzon en color azul,  ideal para lucirlo y combinarlo con el azul del mar. ]]></undefined4>
+		<undefined5><![CDATA[Bikini de olanes ]]></undefined5>
+		<undefined6><![CDATA[Bikini olanes de dos piezas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$599]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Top de olanes, bikini completo en color azul ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Bikini ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 9 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Coloradas ]]></undefined2>
+		<undefined3><![CDATA[Bikini rosa con flores de colores ]]></undefined3>
+		<undefined4><![CDATA[Bikini de dos piezas, top de flores con acabados en color rosa, con acabados elegantes y creado para lucir espectacular. ]]></undefined4>
+		<undefined5><![CDATA[Bikini triangulo ]]></undefined5>
+		<undefined6><![CDATA[Bikini floral ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[10 CH, 10 M, 10 G]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Top en forma de triangulo floral con calzon rosa ]]></undefined12>
+		<undefined13><![CDATA[Chico|Mediano|Grande ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 10 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Paraiso ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa con diseños de aves tropicales ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa con coloridas aves tropicales, creada para descansar y tomar el sol en la playa.]]></undefined4>
+		<undefined5><![CDATA[Manta Cuadrada  ]]></undefined5>
+		<undefined6><![CDATA[Aves tropicales 1 x 1 ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$459]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Rosa con aves de colores ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 11]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Sayulita]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa con estilo unico mexicano ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa con un estilo unico de formas y texturas huicholes,creada para llevar el corazon de mexico a playas de todo el mundo. ]]></undefined4>
+		<undefined5><![CDATA[Manta Cicular ]]></undefined5>
+		<undefined6><![CDATA[Texturas Huicholes 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Texturas Huicholes ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 12 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Flamingos ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa con flamingos rosados ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa, diseñada con la belleza de los flamingos rosados, perfecta para llevarla a tus viajes de playa.]]></undefined4>
+		<undefined5><![CDATA[Manta Cicular ]]></undefined5>
+		<undefined6><![CDATA[Flamingos 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Flamingos rosados ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 13 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Atardecer]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa, con paisaje atardecer ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa,  refleja un atardecer del Caribe Mexicano.]]></undefined4>
+		<undefined5><![CDATA[Manta Cuadrada  ]]></undefined5>
+		<undefined6><![CDATA[Atardecer 1 x 1 ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$459]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Atardecer ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 14 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Eclipse ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa, con paisaje de Luna y Sol ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa, con un diseño que fusiona la belleza del sol y la luna]]></undefined4>
+		<undefined5><![CDATA[Manta cicular ]]></undefined5>
+		<undefined6><![CDATA[Eclipse 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Bicolor ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 15]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Pura vida]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa con diseños de olas de mar]]></undefined3>
+		<undefined4><![CDATA[Maha Manta "pura vida" para pasar experiencias playeras a lo grande]]></undefined4>
+		<undefined5><![CDATA[Manta circular  ]]></undefined5>
+		<undefined6><![CDATA[Pura Vida 1 x 1 ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$459]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Kai-mar ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 16]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Raices (colores mexicanos) ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta Raices con colores mexicanos]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa, inspirada en los colores y texturas de la cultura mexicana]]></undefined4>
+		<undefined5><![CDATA[Manta Cicular ]]></undefined5>
+		<undefined6><![CDATA[Mandala 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Mandala ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 17 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Frutal ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa, frutas tropicales ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa, diseñada con una combinacion de frutas tropicales.]]></undefined4>
+		<undefined5><![CDATA[Manta Cuadrada  ]]></undefined5>
+		<undefined6><![CDATA[Frutal 1 x 1 ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$449]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Frutal ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 18 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Tropical (palmas) ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa, decorada con un diseño de palmas tropicales ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa, creada con un estilo que plasma la belleza de lo tropical, el accesorio perfecto para para lucir espectacualr.]]></undefined4>
+		<undefined5><![CDATA[Manta Cicular ]]></undefined5>
+		<undefined6><![CDATA[Tropical 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Tropical ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Mantas ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 19 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Acuarela arcoiris ]]></undefined2>
+		<undefined3><![CDATA[Maha Manta de playa, Arcoiris ]]></undefined3>
+		<undefined4><![CDATA[Maha Manta de playa Arcoiris, para llevar toda tu buena energia siempre.]]></undefined4>
+		<undefined5><![CDATA[Manta Cicular ]]></undefined5>
+		<undefined6><![CDATA[Arcoiris 1 x 1]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$549]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Arcoiris ]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Sandalias ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 20 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Sayulita]]></undefined2>
+		<undefined3><![CDATA[Maha Sandalias de playa y alberca ]]></undefined3>
+		<undefined4><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para resaltar tu oufit playaro, con un estilo de texturas mexicanas]]></undefined4>
+		<undefined5><![CDATA[Sandalias]]></undefined5>
+		<undefined6><![CDATA[Mexicanas ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$129]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Texturas Huicholes ]]></undefined12>
+		<undefined13><![CDATA[Numeracion del 22 al 26 ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Sandalias ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 21]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Eclipse (luna y sol) ]]></undefined2>
+		<undefined3><![CDATA[Maha Sandalias de playa y alberca ]]></undefined3>
+		<undefined4><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseño de una fusion de eclipse ]]></undefined4>
+		<undefined5><![CDATA[Sandalias]]></undefined5>
+		<undefined6><![CDATA[Eclipse   ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$129]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Flamingos rosados ]]></undefined12>
+		<undefined13><![CDATA[Numeracion del 22 al 26 ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Sandalias ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 22]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Raices (colores mexicanos) ]]></undefined2>
+		<undefined3><![CDATA[Maha Sandalias de playa y alberca ]]></undefined3>
+		<undefined4><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, con diseños y colores que distinguen a nuestro Mexico. ]]></undefined4>
+		<undefined5><![CDATA[Sandalias]]></undefined5>
+		<undefined6><![CDATA[Raices ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$129]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Arcoiris ]]></undefined12>
+		<undefined13><![CDATA[Numeracion del 22 al 26 ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Sandalias ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 23]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Paraiso (aves) ]]></undefined2>
+		<undefined3><![CDATA[Maha Sandalias de playa y alberca ]]></undefined3>
+		<undefined4><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero, ]]></undefined4>
+		<undefined5><![CDATA[Sandalias]]></undefined5>
+		<undefined6><![CDATA[Paraiso (aves) ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$129]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Aves ]]></undefined12>
+		<undefined13><![CDATA[Numeracion del 22 al 26 ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Sandalias ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 24]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Tropical (palmas) ]]></undefined2>
+		<undefined3><![CDATA[Maha Sandalias de playa y alberca ]]></undefined3>
+		<undefined4><![CDATA[Maha Sandalias de playa y alberca, comodas, perfectas y diferentes para lucir con tu oufit playero.  ]]></undefined4>
+		<undefined5><![CDATA[Sandalias]]></undefined5>
+		<undefined6><![CDATA[Tropical (palmas) ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$129]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[Palmas ]]></undefined12>
+		<undefined13><![CDATA[Numeracion del 22 al 26 ]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 25 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Sayulita]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Sayulita]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 26 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Raices (colores mexicanos) ]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Raices ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[            $299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 27 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Tropical (palmas) ]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Tropical ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 28 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Frutal ]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Frutal   ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 29 ]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Eclipse]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Eclipse]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 30]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[México]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Mexico ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 31]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Flamingos ]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Flamingos]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[            $299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 32]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Arcoiris]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Arcoiris ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 33]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Mandala]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Mandala ]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Cojines ]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 34]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Natural]]></undefined2>
+		<undefined3><![CDATA[Cojines decorativos para interior y exterior]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tu hogar con nuestros maha cojines coloridos, playeros y tropicales]]></undefined4>
+		<undefined5><![CDATA[Cojines ]]></undefined5>
+		<undefined6><![CDATA[Natural]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$299]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Toallas]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 35]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Mexico ]]></undefined2>
+		<undefined3><![CDATA[Maha Toallas para lucir en todo momento]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></undefined4>
+		<undefined5><![CDATA[Toallas]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Toallas]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 36]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Pura Vida]]></undefined2>
+		<undefined3><![CDATA[Maha Toallas para lucir en todo momento]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></undefined4>
+		<undefined5><![CDATA[Toallas]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Toallas]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 37]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Tropical (palmas) ]]></undefined2>
+		<undefined3><![CDATA[Maha Toallas para lucir en todo momento]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></undefined4>
+		<undefined5><![CDATA[Toallas]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Toallas]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 38]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Frutal ]]></undefined2>
+		<undefined3><![CDATA[Maha Toallas para lucir en todo momento]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></undefined4>
+		<undefined5><![CDATA[Toallas]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+	<node>
+		<undefined0><![CDATA[Toallas]]></undefined0>
+		<guiadecapturadeproductosparatiendaocatlogo><![CDATA[0 39]]></guiadecapturadeproductosparatiendaocatlogo>
+		<undefined2><![CDATA[Paraiso (aves) ]]></undefined2>
+		<undefined3><![CDATA[Maha Toallas para lucir en todo momento]]></undefined3>
+		<undefined4><![CDATA[Dale Vida a tus días o resalta en la playa o alberca luciendote maha]]></undefined4>
+		<undefined5><![CDATA[Toallas]]></undefined5>
+		<undefined6><![CDATA[]]></undefined6>
+		<undefined7><![CDATA[Mahamaha ]]></undefined7>
+		<undefined8><![CDATA[$349]]></undefined8>
+		<undefined9><![CDATA[]]></undefined9>
+		<undefined10><![CDATA[]]></undefined10>
+		<undefined11><![CDATA[]]></undefined11>
+		<undefined12><![CDATA[]]></undefined12>
+		<undefined13><![CDATA[]]></undefined13>
+		<undefined14><![CDATA[]]></undefined14>
+	</node>
+</data>
