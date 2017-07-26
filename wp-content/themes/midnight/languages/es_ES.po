@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Midnight\n"
-"POT-Creation-Date: 2017-07-07 13:35-0400\n"
-"PO-Revision-Date: 2017-07-07 13:48-0400\n"
+"POT-Creation-Date: 2017-07-26 15:01-0400\n"
+"PO-Revision-Date: 2017-07-26 15:02-0400\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es_ES\n"
@@ -76,7 +76,7 @@ msgstr "Entradas"
 
 #: bw/core/Bw.php:573
 msgid "Search Results for: "
-msgstr "Buscar resultados para:"
+msgstr "Buscar Resultados para: "
 
 #: bw/core/Bw.php:575
 msgid "Tagged as: "
@@ -4185,12 +4185,12 @@ msgstr ""
 #: page-my-account.php:24 page-my-account.php:36
 #: templates/header/header-v1.php:64 templates/header/settings-icons.php:35
 msgid "Log Out"
-msgstr ""
+msgstr "Salir"
 
 #: page-my-account.php:29 templates/header/header-v1.php:55
 #: templates/header/settings-icons.php:27
 msgid "My account"
-msgstr ""
+msgstr "Mi cuenta"
 
 #: page-my-account.php:38
 msgid "Define your <b>My Account<b> navigation in <b>Appearance > Menus</b>."
@@ -4200,7 +4200,7 @@ msgstr ""
 #: plugins/login-with-ajax/default/widget_out.php:24
 #: woocommerce/myaccount/form-login.php:93
 msgid "Username"
-msgstr ""
+msgstr "Usuario"
 
 #: plugins/login-with-ajax/default/widget_out.php:5
 #: woocommerce/myaccount/form-login.php:54
@@ -4208,12 +4208,12 @@ msgstr ""
 #: woocommerce/myaccount/form-login.php:107
 #: woocommerce/myaccount/form-login.php:108
 msgid "Password"
-msgstr ""
+msgstr "Contraseña"
 
 #: plugins/login-with-ajax/default/widget_out.php:9
 #: templates/modal-profile.php:14
 msgid "Log In"
-msgstr ""
+msgstr "Entrar"
 
 #: plugins/login-with-ajax/default/widget_out.php:16
 msgid "Lost your passwordddd?"
@@ -4222,24 +4222,24 @@ msgstr ""
 #: plugins/login-with-ajax/default/widget_out.php:17
 #: woocommerce/myaccount/form-login.php:64
 msgid "Lost your password?"
-msgstr ""
+msgstr "¿Perdiste tu contraseña?"
 
 #: plugins/login-with-ajax/default/widget_out.php:25
 msgid "E-mail"
-msgstr ""
+msgstr "Correo"
 
 #: plugins/login-with-ajax/default/widget_out.php:31
 #: templates/modal-profile.php:15 woocommerce/myaccount/form-login.php:121
 msgid "Register"
-msgstr ""
+msgstr "Registarse"
 
 #: plugins/login-with-ajax/default/widget_out.php:35
 msgid "A password will be e-mailed to you."
-msgstr ""
+msgstr "Un correo te será enviado."
 
 #: plugins/login-with-ajax/default/widget_out.php:41
 msgid "Enter username or email"
-msgstr ""
+msgstr "Entre usuario o correo"
 
 #: plugins/login-with-ajax/default/widget_out.php:46
 msgid "Get New Password"
@@ -4247,7 +4247,7 @@ msgstr ""
 
 #: searchform.php:3
 msgid "Search here..."
-msgstr ""
+msgstr "Buscar aquí..."
 
 #: searchform.php:5 templates/header/header-v1.php:17
 msgid "Search"
@@ -4290,7 +4290,7 @@ msgstr ""
 
 #: templates/content/content.php:79
 msgid "Share this:"
-msgstr ""
+msgstr "Compartir esto:"
 
 #: templates/header/cart.php:59
 msgid "qty: "
@@ -4334,7 +4334,7 @@ msgstr "No hay productos en la lista de deseos"
 
 #: templates/modal-profile.php:34
 msgid "Or"
-msgstr ""
+msgstr "O"
 
 #: templates/modal-profile.php:38
 msgid "Login with Ajax Plugin is required."
@@ -4342,7 +4342,7 @@ msgstr ""
 
 #: templates/modal-quick-look.php:17
 msgid "The product was not found"
-msgstr ""
+msgstr "El producto no fue encontrado"
 
 #: templates/page-title-cart.php:5
 msgid "Shopping cart"
@@ -4354,7 +4354,7 @@ msgstr "Completar orden"
 
 #: templates/page-title-cart.php:24
 msgid "Thank you for shopping with us, your order is complete!"
-msgstr ""
+msgstr "¡Gracias por comprar con nosotros, tu orden está completa!"
 
 #: templates/page-title-cart.php:26
 msgid "Continue shopping"
@@ -4370,11 +4370,11 @@ msgstr ""
 
 #: templates/social-meta-icons.php:22
 msgid "Share with: "
-msgstr "Compartir con:"
+msgstr "Compartir con: "
 
 #: woocommerce/cart/cart-empty.php:31
 msgid "Your cart is currently empty."
-msgstr "Este carrito esta vacío"
+msgstr "Este carrito esta vacío."
 
 #: woocommerce/cart/cart-empty.php:33
 msgid "Return To Shop"
@@ -4400,12 +4400,12 @@ msgstr "Iniciar sesión"
 
 #: woocommerce/myaccount/form-login.php:39
 msgid "Login using social media"
-msgstr ""
+msgstr "Autenticarse usando social media"
 
 #: woocommerce/myaccount/form-login.php:50
 #: woocommerce/myaccount/form-login.php:51
 msgid "Username or email address"
-msgstr ""
+msgstr "Usuario o dirección de correo electrónico"
 
 #: woocommerce/myaccount/form-login.php:62
 msgid "Remember me"
@@ -4426,7 +4426,7 @@ msgstr "¡Dile HOLA a tu cuenta!"
 #: woocommerce/myaccount/form-login.php:100
 #: woocommerce/myaccount/form-login.php:101
 msgid "Email address"
-msgstr ""
+msgstr "Correo electrónico"
 
 #: woocommerce/myaccount/form-login.php:114
 msgid "Anti-spam"
@@ -4434,29 +4434,31 @@ msgstr ""
 
 #: woocommerce/myaccount/form-login.php:130
 msgid "Sign up today and you'll be able to"
-msgstr ""
+msgstr "Entra hoy y serás capaz de"
 
 #: woocommerce/myaccount/form-lost-password.php:31
 msgid ""
 "Lost your password? Please enter your username or email address. You will "
 "receive a link to create a new password via email."
 msgstr ""
+"¿Perdiste tu contraseña? Por favor, entra tu usuario o correo electrónico. "
+"Recibirás un correo con el vínculo para crear una nueva contraseña."
 
 #: woocommerce/myaccount/form-lost-password.php:33
 msgid "Username or email"
-msgstr ""
+msgstr "Usuario o correo"
 
 #: woocommerce/myaccount/form-lost-password.php:37
 msgid "Enter a new password below."
-msgstr ""
+msgstr "Entre una nueva contraseña debajo."
 
 #: woocommerce/myaccount/form-lost-password.php:40
 msgid "New password"
-msgstr ""
+msgstr "Nueva contraseña"
 
 #: woocommerce/myaccount/form-lost-password.php:44
 msgid "Re-enter new password"
-msgstr ""
+msgstr "Vuelva a entrar la nueva contraseña"
 
 #: woocommerce/myaccount/form-lost-password.php:59
 msgid "Reset Password"
@@ -4464,7 +4466,7 @@ msgstr "Cambiar Contraseña"
 
 #: woocommerce/myaccount/form-lost-password.php:59
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: woocommerce/order/form-tracking.php:22
 msgid ""
@@ -4472,48 +4474,51 @@ msgid ""
 "the \"Track\" button. This was given to you on your receipt and in the "
 "confirmation email you should have received."
 msgstr ""
+"Para rastrear tu orden, por favor, entrar el ID de tu Orden en la caja de "
+"texto y presiona el botón \"Rastrear\". Este te fue proporcionado en la "
+"bandeja de "
 
 #: woocommerce/order/form-tracking.php:24
 msgid "Order ID"
-msgstr ""
+msgstr "ID Orden"
 
 #: woocommerce/order/form-tracking.php:24
 msgid "Found in your order confirmation email."
-msgstr ""
+msgstr "Encuéntralo en tu correo de confirmación de orden."
 
 #: woocommerce/order/form-tracking.php:25
 msgid "Billing Email"
-msgstr ""
+msgstr "Correo de Envío"
 
 #: woocommerce/order/form-tracking.php:25
 msgid "Email you used during checkout."
-msgstr ""
+msgstr "Correo que usarás durante el proceso de compra."
 
 #: woocommerce/order/form-tracking.php:28
 msgid "Track"
-msgstr ""
+msgstr "Seguir"
 
 #: woocommerce/product-searchform.php:27
 msgctxt "placeholder"
 msgid "Search Products&hellip;"
-msgstr ""
+msgstr "Buscar Productos&hellip;"
 
 #: woocommerce/product-searchform.php:27
 msgctxt "label"
 msgid "Search for:"
-msgstr ""
+msgstr "Buscar para:"
 
 #: woocommerce/product-searchform.php:28
 msgctxt "submit button"
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: woocommerce/single-product-reviews.php:24
 #, php-format
 msgid "%s review for %s"
 msgid_plural "%s reviews for %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s revisión para %s"
+msgstr[1] "%s revisiones para %s"
 
 #: woocommerce/single-product-reviews.php:26
 msgid "Reviews"
@@ -4521,53 +4526,53 @@ msgstr "Revisiones"
 
 #: woocommerce/single-product-reviews.php:47
 msgid "There are no reviews yet."
-msgstr ""
+msgstr "No hay revisiones aún."
 
 #: woocommerce/single-product-reviews.php:60
 msgid "Add a review"
-msgstr ""
+msgstr "Agrega una revisión"
 
 #: woocommerce/single-product-reviews.php:60
 msgid "Be the first to review"
-msgstr "Se el primero en dejar una revisión"
+msgstr "Sé el primero en dejar una revisión"
 
 #: woocommerce/single-product-reviews.php:61
 #, php-format
 msgid "Leave a Reply to %s"
-msgstr ""
+msgstr "Deja una respuesta para %s"
 
 #: woocommerce/single-product-reviews.php:76
 #, php-format
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."
-msgstr ""
+msgstr "Debes estar  <a href=\"%s\">autenticado</a> para dejar una revisión."
 
 #: woocommerce/single-product-reviews.php:80
 msgid "Your Rating"
-msgstr ""
+msgstr "Tu Valoración"
 
 #: woocommerce/single-product-reviews.php:81
 msgid "Rate&hellip;"
-msgstr ""
+msgstr "Valorar&hellip;"
 
 #: woocommerce/single-product-reviews.php:82
 msgid "Perfect"
-msgstr ""
+msgstr "Perfecto"
 
 #: woocommerce/single-product-reviews.php:83
 msgid "Good"
-msgstr ""
+msgstr "Bueno"
 
 #: woocommerce/single-product-reviews.php:84
 msgid "Average"
-msgstr ""
+msgstr "Promedio"
 
 #: woocommerce/single-product-reviews.php:85
 msgid "Not that bad"
-msgstr ""
+msgstr "No tan malo"
 
 #: woocommerce/single-product-reviews.php:86
 msgid "Very Poor"
-msgstr ""
+msgstr "Muy pobre"
 
 #: woocommerce/single-product-reviews.php:90
 msgid "Your Review"
@@ -4577,6 +4582,8 @@ msgstr "Tu Valoración"
 msgid ""
 "Only logged in customers who have purchased this product may leave a review."
 msgstr ""
+"Solo clientes autenticados quienes hayan comprado este producto pueden dejar "
+"una revisión."
 
 #: woocommerce/single-product/add-to-cart/variable.php:23
 msgid "This product is currently out of stock and unavailable."
@@ -4603,8 +4610,8 @@ msgstr[1] "Categorías:"
 #: woocommerce/single-product/meta.php:32
 msgid "Tag:"
 msgid_plural "<span>Tags:</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Etiqueta:"
+msgstr[1] "<span>Etiquetas:</span>"
 
 #: woocommerce/single-product/product-image.php:51
 msgid "Placeholder"
@@ -4613,21 +4620,21 @@ msgstr ""
 #: woocommerce/single-product/rating.php:29
 #, php-format
 msgid "out of %s5%s"
-msgstr ""
+msgstr "fuera de %s5%s"
 
 #: woocommerce/single-product/rating.php:30
 #, php-format
 msgid "based on %s customer rating"
 msgid_plural "based on %s customer ratings"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "basado en %s valoración de cliente"
+msgstr[1] "basado en %s valoraciones de clientes"
 
 #: woocommerce/single-product/rating.php:33
 #, php-format
 msgid "%s customer review"
 msgid_plural "%s customer reviews"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s revisión de cliente"
+msgstr[1] "%s revisiones de cliente"
 
 #: woocommerce/single-product/related.php:44
 msgid "Related Products"

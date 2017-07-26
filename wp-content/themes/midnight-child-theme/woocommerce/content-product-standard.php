@@ -58,7 +58,7 @@ foreach($post_classes as $k => $pc) {
 
 	<?php do_action( 'woocommerce_before_shop_loop_item' ); ?>
 
-	<a href="<?php the_permalink(); ?>">
+	<a class="testing" href="<?php the_permalink(); ?>">
 
 		<?php
 			/**

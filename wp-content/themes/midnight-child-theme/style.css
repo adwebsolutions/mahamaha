@@ -10,32 +10,25 @@ Version: 1.0
 */
 
 
-/*
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-This child theme enables you to make customizations while allowing for safe updates to the parent theme.
-The parent theme's style.css is imported below. If you wish to make customizations, do one of the following:
-
-A.) Copy the contents of [theme-name]/style.css into this file, but leave the (above) child theme head in tact!
-B.) Add specific rules BELOW the import. This is intended for minimal customizations.
-
-----------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------
-
-*/
-@import url("../midnight/style.css");
+/*@import url("../midnight/style.css");*/
 body, html {
     font-weight: 100;
     font-family: "Raleway",sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 24px;
+    color: #666666 !important;
 }
-h1, h2, h3, h4, h5, h6, .bw-paged, .bw-share-cell > span, .widget_rss li .rsswidget, .widget_recent_comments, .widget_meta, .widget_pages ul li a, .widget_nav_menu ul li a, .woocommerce table.shop_table td .amount, .woocommerce table.shop_table th, .comment-form-comment label, .comment-form-rating label, .woocommerce-tabs ul.tabs, .bw-mobile-menu, .bw-hm .bw-hm-top .bw-hm-user, .sku_wrapper > span, .tagged_as > span, .posted_in > span, .bw-cproduct .button, .bwpb-pb .bwpb-pb-title, .product_list_widget .amount, .product_list_widget li a, .bw-price, .price_slider_amount, .widget_product_categories .product-categories, .woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count, .woocommerce .woocommerce-ordering select, .bw-account-used-sidebar, .woocommerce table.wishlist_table tbody td, .woocommerce table.wishlist_table thead th, .bw-tags > span, .bw-share > span, .widget_categories, .widget_archive, .bw-date, .widget_product_tag_cloud, .widget_tag_cloud, .nav-posts a, .bw-navigation li a, .bw-modal-title a, .bw-social-separator, .bw-faq-content h3, .bw-faq-title, .woocommerce form .form-row label, .bw-blog-wide .bw-more, .bw-price-label, .bw-menu-nav, .bw-scroller-counter, .bw-newsletter-content input[type="submit"], input[type="submit"], .bw-button, .bw-search-submit, .bw-header, .bw-breadcrumb, .bw-creanim .bw-creanim-bg-text, .bw-quick-look, .price .amount, .bw-variation-label, .bw-creanim-button, .bw-featured-tabs, .bw-deal-counter, .bwpb-testimonial-content > h4, .bw-more ,.bwpb-heading-content{
-    font-family: "Raleway",sans-serif !important;
+h1, h2, h3, h4, h5, h6, .bw-paged, .bw-share-cell > span, .widget_rss li .rsswidget, .widget_recent_comments, .widget_meta, .widget_pages ul li a, .widget_nav_menu ul li a, .woocommerce table.shop_table td .amount, .woocommerce table.shop_table th, .comment-form-comment label, .comment-form-rating label, .woocommerce-tabs ul.tabs, .bw-mobile-menu, .bw-hm .bw-hm-top .bw-hm-user, .sku_wrapper > span, .tagged_as > span, .posted_in > span, .bw-cproduct .button, .bwpb-pb .bwpb-pb-title, .product_list_widget .amount, .product_list_widget li a, .bw-price, .price_slider_amount, .widget_product_categories .product-categories, .woocommerce .woocommerce-ordering, .woocommerce .woocommerce-result-count, .woocommerce .woocommerce-ordering select, .bw-account-used-sidebar, .woocommerce table.wishlist_table tbody td, .woocommerce table.wishlist_table thead th, .bw-tags > span, .bw-share > span, .widget_categories, .widget_archive, .bw-date, .widget_product_tag_cloud, .widget_tag_cloud, .nav-posts a, .bw-navigation li a, .bw-modal-title a, .bw-social-separator, .bw-faq-content h3, .bw-faq-title, .woocommerce form .form-row label, .bw-blog-wide .bw-more, .bw-price-label, .bw-menu-nav, .bw-scroller-counter, .bw-newsletter-content input[type="submit"], input[type="submit"], .bw-button, .bw-search-submit, .bw-header, .bw-breadcrumb, .bw-creanim .bw-creanim-bg-text, .bw-variation-label, .bw-creanim-button, .bw-featured-tabs, .bw-deal-counter, .bwpb-testimonial-content > h4, .bw-more ,.bwpb-heading-content{
+    font-family: "Raleway", sans-serif !important;
+}
+.bw-quick-look, .price .amount, h2.woocommerce-loop-product__title {
+    font-family: "Lato", sans-serif !important;
 }
 h4{
     font-size: 16px;
+}
+.bwpb-row p {
+    color: #666666 !important;
 }
 .bw-title-inner::after {
     content: '';
@@ -57,13 +50,7 @@ h4{
 .bwpb-heading-section .bwpb-heading-line::after {
     background-color: transparent;
 }
-.bwpb-heading-section .bwpb-heading-line::before {
-    content: url('http://localhost:2100/maha-maha/wp-content/uploads/2017/06/header-span-bg.jpg');
-    position: absolute;
-    top: 0;
-    height: 0;
-    background-color: transparent;
-}
+
 .bwpb-heading-section .bwpb-heading-line.bw-hl-left::before {
     left: auto;
     right:0;
@@ -72,8 +59,8 @@ h4{
     right: auto;
     left:0;
 }
-.bwpb-heading-section .bwpb-heading-title {
-    color: #373737 !important;
+.home .bwpb-heading-section .bwpb-heading-title {
+    color: #231f20 !important;
     position: relative;
     z-index: 1;
 }
@@ -87,34 +74,16 @@ h4{
     font-size: 40px;
     text-transform: none;
 }
-.bwpb-heading-section.rt-bg .bwpb-heading-title:before {
-    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
-    margin-left: -100px;
-    top: 5px;
-    position: absolute;
-    z-index: -1;
-}
+
 .bwpb-heading-section.lt-bg .bwpb-heading-title {
     padding-bottom: 50px;
 }
-.bwpb-heading-section.lt-bg .bwpb-heading-title:after {
-    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
-    margin-left: -34px;
-    top: 5px;
-    position: absolute;
-    z-index: -1;
-}
+
 .bwpb-heading-section.lm-bg .bwpb-heading-title {
     padding-bottom: 50px;
     padding-top: 10px;
 }
-.bwpb-heading-section.lm-bg .bwpb-heading-title:after {
-    content: url(http://localhost:2100/maha-maha/wp-content/uploads/2017/06/heading-bg.jpg);
-    margin-left: -34px;
-    top: 0;
-    position: absolute;
-    z-index: -1;
-}
+
 .bwpb-heading-section.bw-heading-align-center .bwpb-heading-title {
     max-width: 400px;
 }
@@ -155,6 +124,7 @@ h4{
     font-size: 42px;
     line-height: 40px;
     color: #fff;
+    font-weight: 100;
 }
 .top-bar-right-info {
     text-align: right;
@@ -176,8 +146,9 @@ h4{
     font-size: 24px;
 }
 .bw-header {
-    z-index: 2;
+    z-index: 20;
 }
+
 .home .bw-header {
     background: transparent;
 }
@@ -214,9 +185,10 @@ h4{
     max-width: 1120px;
     margin: 0 auto;
 }
-.bw-header-v2 .bw-top-settings {
-    width: auto !important;
+.bw-header-v2 .bw-shopcart {
+    background: transparent;
 }
+
 /*breadcrumb*/
 .bw-breadcrumb {
     line-height: 40px;
@@ -230,6 +202,9 @@ h4{
     text-align: right;
     text-transform: uppercase;
     font-weight: 100;
+}
+.bw-breadcrumb ul li:last-child {
+    color: #29b473;
 }
 .bw-breadcrumb ul li a::after {
     content: '|';
@@ -261,6 +236,7 @@ ul.info-box-cs {
 /**/
 .bw-footer {
     border-top: 1px solid #29b473;
+    font-size: 12px;
 }
 .bw-footer .bw-col {
     border-right: 1px solid #29b473;
@@ -272,36 +248,43 @@ ul.info-box-cs {
 .bw-footer-copy a {
     color: #29b473;
 }
-.widget-title::after {
+.bw-footer .widget-title::after {
     bottom: -8px;
     height: 3px;
 }
-.widget .bw-footer-social li a {
+.bw-footer .widget .bw-footer-social li a {
     color: rgba(41,180,115,0.6);
 }
-.widget_nav_menu ul li a {
-    display: inline
+.bw-footer .widget_nav_menu {
+    margin-bottom: 0 !important;
 }
-.menu-footer-direct-links-container .menu {
-    list-style: url("http://localhost:2100/maha-maha/wp-content/uploads/2015/10/footer-list-ico.jpg");
-    list-style-position: inside;
+.bw-footer .widget_nav_menu ul li a {
+    display: inline;
+    font-size:12px !important
+}
+.bw-footer .widget_nav_menu ul li:hover a {
+    color: #29b473;
+}
+.bw-footer .widget_media_image {
+    width: 50%;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+.bw-footer .menu-footer-info-links-container {
+    margin-bottom: 20px;
 }
 /*HOME*/
 
 .bw-creanim {
-    height: 750px;
-}
-.bw-creanim-content.bw-creanim-position-center-bottom {
-    left: 50%;
-    bottom: 100px;
+    /*height: 750px;*/
 }
 .bw-creanim-box .bw-creanim-summary {
     text-transform: none;
-    font-size: 17px;
-    color: #ffffff;
+    font-size: 20px;
+    color: #ffffff !important;
     letter-spacing: 4px !important;
+    text-align: center !important;
 }
-
 .slide3 .bw-creanim-box h3{
     width: 45%;
     white-space: normal;
@@ -311,27 +294,19 @@ ul.info-box-cs {
     border-bottom: 0;
     position: relative;
 }
-.bw-slider .owl-page:before {
-    content: url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/slide-page.png");
-    position: absolute;
-    top:0;
-    left: 0;
-}
+
 .bw-slider .owl-page.active {
     border-bottom: 0;
 }
-.bw-slider .owl-page.active:before {
-    content: url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/slide-page-active.png");
-}
+
 .bw-slider .owl-controls .owl-pagination {
     bottom: 50px;
 }
-/*product feature*/
 /* featured products */
 .bw-featured-cat-tabs {width:100%;display:block;text-align:center;margin:0 0 30px 0;list-style:none;}
 .bw-featured-cat-tabs li {display:inline-block;padding:10px 26px;font-size:16px;text-transform:uppercase;color:#b5b5b5;position:relative;transition:color .3s;cursor:pointer;}
 .bw-featured-cat-tabs li.bw-active {color:#000;}
-.bw-featured-cat-tabs li:after {content:'\f00d';font-family:'FontAwesome';position:absolute;top:9px;right:-4px;font-size:8px;}
+.bw-featured-cat-tabs li:after {content:'\f00d';font-family:'FontAwesome', sans-serif;position:absolute;top:9px;right:-4px;font-size:8px;}
 .bw-featured-cat-tabs li:last-child:after {content:none;}
 
 .bw-featured-cat-products {width:100%;position:relative;}
@@ -374,11 +349,7 @@ ul.info-box-cs {
 .bw-clls .bw-cll-2 .bw-title {
     color: #ffffff !important;
 }
-.bw-clls .bw-cll-2 .bw-title:after {
-    content:url("http://localhost:2100/maha-maha/wp-content/uploads/2017/06/col-block-heading-bg.png");
-    display: inherit;
-    margin-top: 20px;
-}
+
     /*block 3*/
 .bw-clls .bw-cll-3 .bw-title {
     color: #ffffff !important;
@@ -427,6 +398,23 @@ ul.info-box-cs {
     font-size: 16px !important;
     line-height: 24px;
 }
+.bwpb-icon-text {
+    margin-top: 10px;
+}
+.bwpb-icon-text .bwpb-element-icon-wrap.bwpb-element-is-image img {
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+}
+.bwpb-icon-text .bwpb-element-icon-wrap.bwpb-element-is-image:hover img {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+/**/
+.btn-center {
+    margin-top: 20px;
+}
 /*contact form*/
 .cs-row {
     display: block;
@@ -440,6 +428,16 @@ ul.info-box-cs {
 }
 .cs-col3:last-child {
     padding-right: 0;
+}
+span.wpcf7-not-valid-tip {
+    color: #f00;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline-block;
+    background: yellow;
+}
+div.wpcf7-response-output {
+    font-size: 14px;
 }
 .news-form {
     text-align: right;
@@ -492,7 +490,7 @@ ul.info-box-cs {
     line-height: 20px;
     font-weight: 700;
 }
-a.link-product:hover {
+.link-product:hover {
 	background:#29b473;
 }
 h2.woocommerce-loop-product__title {
@@ -500,7 +498,15 @@ h2.woocommerce-loop-product__title {
     text-transform: uppercase;
     font-weight: 400;
     text-align: center;
-    margin: 20px 0;
+    margin: 12px 0;
+    color: #666666 !important;
+}
+h2.woocommerce-loop-product__title:hover {
+    color:#29b473;
+    font-weight: 500;
+}
+.price .amount {
+    font-size: 20px;
 }
 .related.products {
     border-top: 1px solid #666666;
@@ -512,6 +518,32 @@ h2.woocommerce-loop-product__title {
 }
 .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt[disabled]:disabled, .woocommerce #respond input#submit.alt[disabled]:disabled:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt[disabled]:disabled, .woocommerce a.button.alt[disabled]:disabled:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt[disabled]:disabled, .woocommerce button.button.alt[disabled]:disabled:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt[disabled]:disabled, .woocommerce input.button.alt[disabled]:disabled:hover {
     background-color: #29b473;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+    z-index: 1 !important;
+}
+.bw-share-meta .bw-share-cell a {
+    color: #29b473;
+}
+.bw-share-meta .bw-share-cell a:hover {
+    color: #666666 !important;
+}
+.bw-variation select {
+    color: #29b473;
+}
+table tbody tr:hover td, table tbody tr:hover th {
+    color: #29b473 !important;
+}
+.woocommerce form .form-row label {
+    font-size: 13px;
+}
+#customer_details input[type="text"], #customer_details input[type="email"], #customer_details input[type="password"], #customer_details input[type="tel"], #customer_details .select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #29b473;
+}
+.select2-container .select2-selection--single {
+    border-radius: 0;
+    color: #c8c8c8;
+    height: 32px;
 }
 @media screen and (max-width: 1279px){
     .bwpb-column {
@@ -542,6 +574,7 @@ h2.woocommerce-loop-product__title {
         position: absolute;
         z-index: -1;
     }
+    .slide2 .bw-creanim-content.bw-creanim-position-center-bottom,.slide3 .bw-creanim-content.bw-creanim-position-center-bottom{ left: 50%; bottom: 150px !important; }
 }
 @media screen and (min-width: 768px) and (max-width: 1024px){
     .contact-row  .bwpb-colwidth-2 {
@@ -550,12 +583,14 @@ h2.woocommerce-loop-product__title {
     }
 }
 
-@media screen and (max-width: 979px){
+@media only screen and (max-width: 880px){
     .bw-clls-5 .bw-cll-4 {
         width: 100%;
     }
-    .bw-footer .bw-col {
-        width: 49% !important;
+    .bw-footer .bw-col {width:49%!important;}
+    .slide2 .bw-creanim-content.bw-creanim-position-center-bottom, .slide3 .bw-creanim-content.bw-creanim-position-center-bottom {
+        left: 50%;
+        bottom: 100px !important;
     }
 }
 @media screen and (max-width: 768px){
@@ -586,8 +621,42 @@ h2.woocommerce-loop-product__title {
         display: block;
     }
 }
-@media screen and (max-width: 480px) {
-    .bw-footer {
-        width: 92%;
+@media only screen and (max-width: 480px) {
+    .bw-creanim-content {top:80%!important;}
+    .slide2 .bw-creanim-content {
+        top: 65% !important;
+    }
+    .slide3 .bw-creanim-content {
+        font-size: 120px !important;
+        top: 65% !important;
+    }
+    .bw-footer { width: 92%; }
+    .bw-footer .bw-col {width:100%!important;padding:0!important;}
+    .cs-col3 {
+        width:100%;
+        padding-right: 0;
+        clear: both;
+        display: block;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .woocommerce ul.products li.product, .woocommerce-page ul.products li.product {width:100%;}
+}
+@media only screen and (min-width: 1024px) {
+    .bw-header-v2 .bw-logo { width:auto; }
+    .bw-header-v2 .bw-navigation { padding-right: 0; }
+    .bw-header-v2 .bw-top-settings {width: auto !important; text-align: left}
+    .bw-creanim { min-height: 750px;}
+    .bw-creanim-content.bw-creanim-position-center-bottom { left: 50%; bottom: 100px !important; }
+    .slide2 .bw-creanim-content.bw-creanim-position-center-bottom,.slide3 .bw-creanim-content.bw-creanim-position-center-bottom{ left: 50%; bottom: 300px !important; }
+    .bw-creanim-content.bw-creanim-position-center-center {
+        left: 50%;
+        top: 60%;
+        transform: translateY(-55%) translateX(-50%);
+    }
+    .bw-creanim-content.bw-creanim-position-left-bottom {
+        left: 90px;
+        bottom: 150px;
     }
 }

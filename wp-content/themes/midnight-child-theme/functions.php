@@ -1,7 +1,7 @@
 <?php
 include dirname(__FILE__) . '/includes/custom-theme-options.php';
 
-if( ! function_exists( 'woocommerce_get_product_thumbnail' ) ) {
+        if( ! function_exists( 'woocommerce_get_product_thumbnail' ) ) {
     function woocommerce_get_product_thumbnail( $size = 'shop_catalog', $placeholder_width = 0, $placeholder_height = 0  ) {
 
         global $post, $product;
@@ -32,7 +32,7 @@ if( ! function_exists( 'woocommerce_get_product_thumbnail' ) ) {
             $output .= '<span class="bw-quick-look" data-modal="bw-modal-quick-look" data-product_id="' . $product->get_id() . '">' . esc_html__('Quick look', 'midnight') . '</span>';
         }
         else
-            $output .='<a class="link-product" href="'. get_permalink() .'">'. esc_html__('View product','midnight-child') .'</a>';
+            $output .= '<span class="link-product">'. esc_html__('View product','midnight-child') .'</span>';
 
         $average = $product->get_average_rating();
         if( $average ) {
@@ -66,14 +66,28 @@ function loadParentClass(){
     Bw_custom_page_builder::init();
 }
 
-add_action( 'wp_enqueue_scripts', 'custom_enqueue_styles' );
+add_action( 'wp_enqueue_scripts', 'custom_enqueue_styles',99 );
 function custom_enqueue_styles() {
     wp_enqueue_script( 'custom-script', get_stylesheet_directory_uri() .'/js/custom.js',array('jquery'),'1.0', true);
 
-    wp_dequeue_style( 'bw-main' );
-    wp_deregister_style( 'bw-main' );
+    wp_dequeue_script( 'bw-main' );
+    wp_deregister_script( 'bw-main' );
 
     wp_register_script( 'bw-main', get_stylesheet_directory_uri() . '/js/main.js', array('jquery', 'bw-vendors'),'1.0',true);
     wp_enqueue_script('bw-main');
+
+    wp_dequeue_style( 'style' );
+    wp_deregister_style( 'style' );
+    //wp_dequeue_style( 'bw-media' );
+    //wp_deregister_style( 'bw-media' );
+
+   // wp_register_style( 'bw-media', get_template_directory_uri() . '/assets/css/media.css',array(),1.0,true);
+    wp_register_style( 'style', get_stylesheet_directory_uri() . '/style.css',array('bw-style','bw-media'),'1.0');
+    //wp_enqueue_style( 'bw-media' );
+    wp_enqueue_style( 'style' );
+   // wp_enqueue_style('style',get_stylesheet_directory_uri().'/style.css',array(),1.0,true);
 }
+
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_result_count', 20 );
+remove_action( 'woocommerce_before_shop_loop', 'woocommerce_catalog_ordering', 30 );
 ?>

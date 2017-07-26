@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - WooCommerce - Stable (latest release) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-06-28 23:14-0400\n"
+"PO-Revision-Date: 2017-07-25 18:19-0400\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -83,7 +83,7 @@ msgstr "Lo sentimos, no puedes editar este recurso."
 
 #: includes/admin/views/html-bulk-edit-product.php:28
 msgid "Increase existing price by (fixed amount or %):"
-msgstr "Incrementar el precio actual en (monto fijo o %)"
+msgstr "Incrementar el precio actual en (monto fijo o %):"
 
 #: includes/admin/views/html-admin-page-status-report.php:603
 msgid "Parent theme author URL"
@@ -253,7 +253,7 @@ msgstr "(estimado para %s)"
 
 #: templates/auth/form-grant-access.php:29
 msgid "This will give \"%1$s\" %2$s access which will allow it to:"
-msgstr "Esto otorgará a \"%1$s\" acceso %2$s lo que le permitirá"
+msgstr "Esto otorgará a \"%1$s\" acceso %2$s lo que le permitirá:"
 
 #: includes/widgets/class-wc-widget-layered-nav-filters.php:159
 msgid "Max %s"
@@ -558,7 +558,7 @@ msgstr "Producto %s"
 
 #: includes/class-wc-post-types.php:156
 msgid "Product shipping classes"
-msgstr "Clases de envío "
+msgstr "Clases de envío"
 
 #: includes/class-wc-post-types.php:132
 msgid "No tags found"
@@ -1896,7 +1896,7 @@ msgstr "Esto te permite seleccionar que productos son parte de este grupo."
 
 #: includes/admin/meta-boxes/views/html-product-data-linked-products.php:37
 msgid "Grouped products"
-msgstr "Productos agrupados."
+msgstr "Productos agrupados"
 
 #. translators: 1: refund id 2: date
 #: includes/admin/meta-boxes/views/html-order-refund.php:17
@@ -1992,7 +1992,7 @@ msgstr "La herramienta no existe."
 
 #: includes/admin/class-wc-admin-setup-wizard.php:794
 msgid "Watch the Guided Tour videos"
-msgstr "Mira los videos del tour guiado."
+msgstr "Mira los videos del tour guiado"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:667
 msgid "WooCommerce can accept both online and offline payments. <a href=\"%1$s\" target=\"_blank\">Additional payment methods</a> can be installed later and managed from the <a href=\"%2$s\" target=\"_blank\">checkout settings</a> screen."
@@ -3486,7 +3486,7 @@ msgstr "Una vez desactivado, este método antiguo no volverá a estar disponible
 #: includes/shipping/legacy-local-delivery/class-wc-shipping-legacy-local-delivery.php:25
 #: includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php:25
 msgid "This method is deprecated in 2.6.0 and will be removed in future versions - we recommend disabling it and instead setting up a new rate within your <a href=\"%s\">Shipping zones</a>."
-msgstr "<strong>Este es un método obsoleto en 2.6.0 y será eliminado en versiones futuras - recomendamos desactivarlo y mejor configurar una nueva tarifa dentro de las <a href=\"%s\">Zonas de Envío</a>.</strong>"
+msgstr "Este es un método obsoleto en 2.6.0 y será eliminado en versiones futuras - recomendamos desactivarlo y mejor configurar una nueva tarifa dentro de las <a href=\"%s\">Zonas de Envío</a>."
 
 #: includes/shipping/legacy-flat-rate/class-wc-shipping-legacy-flat-rate.php:26
 msgid "Flat rate (legacy)"
@@ -5791,7 +5791,7 @@ msgstr "La base de datos GeoIP de MaxMind se usa para geolocalizar a los cliente
 
 #: includes/api/class-wc-rest-system-status-controller.php:311
 msgid "MaxMind GeoIP database."
-msgstr "Base de Datos GeoIP de MaxMind"
+msgstr "Base de Datos GeoIP de MaxMind."
 
 #: includes/admin/views/html-admin-page-status-report.php:244
 msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
@@ -5807,7 +5807,7 @@ msgstr "La versión de cURL instalada en tu servidor."
 
 #: includes/api/class-wc-rest-system-status-controller.php:207
 msgid "cURL version."
-msgstr "Versión cURL"
+msgstr "Versión cURL."
 
 #: includes/admin/views/html-admin-page-status-report.php:102
 msgid "Displays whether or not WP Cron Jobs are enabled."
@@ -5905,7 +5905,7 @@ msgstr "Puedes agregar múltiples métodos de envío dentro de esta zona. Sólo 
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:95
 #: includes/admin/settings/views/html-admin-page-shipping-zones.php:121
 msgid "Add shipping method"
-msgstr "Agregar método de envío."
+msgstr "Agregar método de envío"
 
 #: includes/admin/settings/views/html-admin-page-shipping-zone-methods.php:64
 msgid "The following shipping methods apply to customers with shipping addresses within this zone."
@@ -5921,7 +5921,7 @@ msgstr "Cancelar cambios"
 
 #: includes/admin/settings/views/html-admin-page-shipping-classes.php:52
 msgid "Shipping class name"
-msgstr "Nombre de clase de envío."
+msgstr "Nombre de clase de envío"
 
 #: includes/admin/settings/views/html-admin-page-shipping-classes.php:33
 msgid "No shipping classes have been created."
@@ -5968,7 +5968,7 @@ msgstr "¿Quieres guardar tus cambios primero? Los datos que hayas modificado se
 #: includes/admin/settings/class-wc-settings-shipping.php:218
 #: includes/admin/settings/class-wc-settings-shipping.php:300
 msgid "Zone does not exist!"
-msgstr "No existe la zona"
+msgstr "¡No existe la zona!"
 
 #: includes/admin/settings/class-wc-settings-shipping.php:110
 msgid "Force shipping to the customer billing address"
@@ -6034,7 +6034,7 @@ msgstr "Vender a todos los países, excepto&hellip;"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:217
 msgid "Endpoint for the setting a default payment method page."
-msgstr "Endpoint de la página para fijar una forma de pago predeterminada"
+msgstr "Endpoint de la página para fijar una forma de pago predeterminada."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:216
 msgid "Set default payment method"
@@ -6042,7 +6042,7 @@ msgstr "Fijar como forma de pago predeterminada"
 
 #: includes/admin/settings/class-wc-settings-checkout.php:208
 msgid "Endpoint for the delete payment method page."
-msgstr "Endpoint de la página para eliminar una forma de pago"
+msgstr "Endpoint de la página para eliminar una forma de pago."
 
 #: includes/admin/settings/class-wc-settings-checkout.php:207
 msgid "Delete payment method"
@@ -6050,7 +6050,7 @@ msgstr "Eliminar Forma de Pago"
 
 #: includes/admin/settings/class-wc-settings-accounts.php:159
 msgid "Endpoint for the \"My account &rarr; Payment methods\" page."
-msgstr "Endpoint para la página de My Cuenta &rarr; Formas de Pago"
+msgstr "Endpoint para la página de My Cuenta &rarr; Formas de Pago."
 
 #: includes/admin/settings/class-wc-settings-accounts.php:158
 #: includes/class-wc-query.php:119 includes/wc-account-functions.php:100
@@ -6163,7 +6163,7 @@ msgstr "¿Listo para empezar a vender algo increíble?"
 
 #: includes/admin/class-wc-admin-post-types.php:1927
 msgid "Learn more about coupons"
-msgstr "Aprender más acerca de los cupones."
+msgstr "Aprender más acerca de los cupones"
 
 #: includes/admin/class-wc-admin-post-types.php:1926
 msgid "Coupons are a great way to offer discounts and rewards to your customers. They will appear here once created."
@@ -6733,7 +6733,7 @@ msgstr "You do not have permission to delete tax classes"
 
 #: includes/api/legacy/v3/class-wc-api-taxes.php:593
 msgid "Tax class already exists"
-msgstr "Clase de impuesto ya existente."
+msgstr "Clase de impuesto ya existente"
 
 #: includes/api/legacy/v3/class-wc-api-taxes.php:569
 msgid "You do not have permission to create tax classes"
@@ -6848,7 +6848,7 @@ msgstr "No tienes permisos para crear etiquetas de producto"
 
 #: includes/api/legacy/v3/class-wc-api-products.php:913
 msgid "A product tag with the provided ID could not be found"
-msgstr "La etiqueta de un producto no pudo ser encontrado con el ID proporcionado."
+msgstr "La etiqueta de un producto no pudo ser encontrado con el ID proporcionado"
 
 #: includes/api/legacy/v3/class-wc-api-products.php:902
 msgid "Invalid product tag ID"
@@ -6993,7 +6993,7 @@ msgstr "Esta sección te permite personalizar los emails de WooCommerce. <a href
 
 #: includes/admin/settings/class-wc-settings-emails.php:79
 msgid "How the sender's email appears in outgoing WooCommerce emails."
-msgstr "Cómo aparece el email del remitente en los emails salientes de WooCommerce"
+msgstr "Cómo aparece el email del remitente en los emails salientes de WooCommerce."
 
 #: includes/admin/settings/class-wc-settings-emails.php:78
 msgid "\"From\" address"
@@ -7168,7 +7168,7 @@ msgstr "Escribe los destinatarios (separados por coma) que recibirán esta notif
 
 #: includes/admin/meta-boxes/views/html-variation-admin.php:18
 msgid "Drag and drop, or click to set admin variation order"
-msgstr "Arrastra o haz clic para establecer el orden de esta variación."
+msgstr "Arrastra o haz clic para establecer el orden de esta variación"
 
 #: includes/admin/meta-boxes/views/html-product-data-variations.php:7
 msgid "Before you can add a variation you need to add some variation attributes on the <strong>Attributes</strong> tab."
@@ -7360,7 +7360,7 @@ msgstr "Actualizaciones del Pedido"
 #: includes/api/class-wc-rest-orders-controller.php:804
 #: includes/api/v1/class-wc-rest-orders-controller.php:931
 msgid "Order number."
-msgstr "Número de pedido"
+msgstr "Número de pedido."
 
 #: templates/myaccount/my-orders.php:30
 msgid "Recent orders"
@@ -7398,7 +7398,7 @@ msgstr "Escribe una nueva contraseña."
 
 #: templates/myaccount/form-lost-password.php:27
 msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
-msgstr "¿Perdiste tu constraseña? Por favor escribe tu nombre de usuario o correo electrónico. Recibirás un enlace para crear una contraseña nueva por correo electrónico. "
+msgstr "¿Perdiste tu constraseña? Por favor escribe tu nombre de usuario o correo electrónico. Recibirás un enlace para crear una contraseña nueva por correo electrónico."
 
 #: templates/myaccount/form-login.php:105
 msgid "Anti-spam"
@@ -7450,7 +7450,7 @@ msgstr "¡Rebajado!"
 msgid "Showing the single result"
 msgid_plural "Showing all %d results"
 msgstr[0] "Mostrando el único resultado"
-msgstr[1] ""
+msgstr[1] "Mostrando los %d resultados"
 
 #: templates/loop/no-products-found.php:24
 msgid "No products were found matching your selection."
@@ -7480,7 +7480,7 @@ msgstr "Hola! Tu pedido de %s ha sido reembolsado. Los detalles de tu pedido se 
 
 #: templates/emails/plain/admin-new-order.php:25
 msgid "You have received an order from %s."
-msgstr "Ha recibido una orden de %s"
+msgstr "Ha recibido una orden de %s."
 
 #: templates/emails/plain/email-order-details.php:44
 msgid "View order: %s"
@@ -7541,7 +7541,7 @@ msgstr "Hola! Tu pedido en %s ha sido parcialmente reembolsado."
 #: templates/emails/customer-processing-order.php:28
 #: templates/emails/plain/customer-processing-order.php:25
 msgid "Your order has been received and is now being processed. Your order details are shown below for your reference:"
-msgstr "Tu pedido se ha recibido y se está procesando. Para tu información, los detalles del pedido son los siguientes."
+msgstr "Tu pedido se ha recibido y se está procesando. Para tu información, los detalles del pedido son los siguientes:"
 
 #: templates/emails/customer-note.php:32
 #: templates/emails/plain/customer-note.php:33
@@ -7644,7 +7644,7 @@ msgstr "Tu pedido"
 
 #: templates/checkout/form-checkout.php:29
 msgid "You must be logged in to checkout."
-msgstr "Debe iniciar sesión para realizar el pago"
+msgstr "Debe iniciar sesión para realizar el pago."
 
 #: templates/checkout/form-billing.php:54
 msgid "Create an account?"
@@ -7761,7 +7761,7 @@ msgstr "Productos Mejor Valorados"
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:27
 msgid "WooCommerce top rated products"
-msgstr "Productos Mejor Valorados WooCommerce "
+msgstr "Productos Mejor Valorados WooCommerce"
 
 #: includes/widgets/class-wc-widget-top-rated-products.php:25
 msgid "Display a list of your top rated products on your site."
@@ -7769,7 +7769,7 @@ msgstr "Mostrar una lista de los productos mejor valorados en su web."
 
 #: includes/widgets/class-wc-widget-recently-viewed.php:29
 msgid "Recently viewed products"
-msgstr "Productos vistos recientemente "
+msgstr "Productos vistos recientemente"
 
 #: includes/widgets/class-wc-widget-recently-viewed.php:25
 msgid "WooCommerce recently viewed"
@@ -7844,7 +7844,7 @@ msgstr "Productos WooCommerce"
 
 #: includes/widgets/class-wc-widget-products.php:23
 msgid "Display a list of your products on your site."
-msgstr "Mostrar una lista de sus productos en su sitio"
+msgstr "Mostrar una lista de sus productos en su sitio."
 
 #: includes/widgets/class-wc-widget-product-tag-cloud.php:25
 msgid "WooCommerce product tags"
@@ -8299,7 +8299,7 @@ msgstr "Peso Argentino"
 
 #: includes/wc-core-functions.php:280
 msgid "United Arab Emirates dirham"
-msgstr "Dirham Emiratos Árabes Unidos "
+msgstr "Dirham Emiratos Árabes Unidos"
 
 #: includes/class-wc-order-refund.php:64
 #: includes/data-stores/abstract-wc-order-data-store-cpt.php:200
@@ -8374,11 +8374,11 @@ msgstr "Por favor, escribe un ID de pedido válido"
 
 #: includes/abstracts/abstract-wc-payment-gateway.php:432
 msgid "Use a new payment method"
-msgstr "Añadir una nueva forma de pago."
+msgstr "Añadir una nueva forma de pago"
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:278
 msgid "Password reset is not allowed for this user"
-msgstr "No está permitido restablecer la contraseña de este usuario."
+msgstr "No está permitido restablecer la contraseña de este usuario"
 
 #: includes/shortcodes/class-wc-shortcode-my-account.php:260
 #: includes/shortcodes/class-wc-shortcode-my-account.php:265
@@ -8509,7 +8509,7 @@ msgstr "Una cantidad mínima de pedido O un cupón"
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:87
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:123
 msgid "A valid free shipping coupon"
-msgstr "Un envío de cupón gratis "
+msgstr "Un envío de cupón gratis"
 
 #: includes/shipping/free-shipping/class-wc-shipping-free-shipping.php:81
 #: includes/shipping/legacy-free-shipping/class-wc-shipping-legacy-free-shipping.php:117
@@ -8696,7 +8696,7 @@ msgstr "Pagos hosteados"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:214
 msgid "Standard will display the credit card fields on your store (SSL required). %1$s Hosted Payments will display a Simplify Commerce modal dialog on your store (if SSL) or will redirect the customer to Simplify Commerce hosted page (if not SSL). %1$s Note: Hosted Payments need a new API Key pair with the hosted payments flag selected. %2$sFor more details check the Simplify Commerce docs%3$s."
-msgstr "Estándar mostrará los campos para tarjetas de crédito en tu tienda (se requiere SSL). %1$s los pagos hosteados mostrarán un diálogo modal de Simplify Commerce en tu tienda (si cuentas con SSL) o direccionarán al cliente hacia la página hosteada de Simplify Commerce (si no cuentas con SSL). %1$s Nota: Los pagos hosteados requieren de un nuevo API Key con la opción de pagos hosteadas seleccionada. %2$sPara mas detalles revisa la docuementación de Simplify Commerce%3$s"
+msgstr "Estándar mostrará los campos para tarjetas de crédito en tu tienda (se requiere SSL). %1$s los pagos hosteados mostrarán un diálogo modal de Simplify Commerce en tu tienda (si cuentas con SSL) o direccionarán al cliente hacia la página hosteada de Simplify Commerce (si no cuentas con SSL). %1$s Nota: Los pagos hosteados requieren de un nuevo API Key con la opción de pagos hosteadas seleccionada. %2$sPara mas detalles revisa la docuementación de Simplify Commerce%3$s."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:212
 msgid "Enable Hosted Payments"
@@ -8717,7 +8717,7 @@ msgstr "Habilitar Simplify Commerce"
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:158
 msgid "Simplify Commerce is enabled, but the <a href=\"%s\">force SSL option</a> is disabled; your checkout may not be secure! Please enable SSL and ensure your server has a valid SSL certificate - Simplify Commerce will only work in sandbox mode."
-msgstr "Comercio Simplificado está habilitado, pero la <a href=\"%s\">opción forzar SSL</a> está deshabilitado; tu Pasarela puede no ser segura! Por favor, habilita SSL para asegurar de que tu servidor tiene un certificado SSL válido - Comercio Simplificado sólo funcionará en en modo sandbox. "
+msgstr "Comercio Simplificado está habilitado, pero la <a href=\"%s\">opción forzar SSL</a> está deshabilitado; tu Pasarela puede no ser segura! Por favor, habilita SSL para asegurar de que tu servidor tiene un certificado SSL válido - Comercio Simplificado sólo funcionará en en modo sandbox."
 
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:153
 msgid "Simplify Commerce Error: Please enter your public and private keys"
@@ -8782,12 +8782,12 @@ msgstr "Pago Simplify aprobado (ID: %1$s, Código de autorización: %2$s)"
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:321
 #: includes/gateways/simplify-commerce/class-wc-gateway-simplify-commerce.php:520
 msgid "Simplify payment error: %s."
-msgstr "Error de pago en Simplify: %s"
+msgstr "Error de pago en Simplify: %s."
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:297
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:440
 msgid "Customer not found."
-msgstr "Cliente no encontrado"
+msgstr "Cliente no encontrado."
 
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:181
 #: includes/gateways/simplify-commerce/class-wc-addons-gateway-simplify-commerce.php:291
@@ -8873,7 +8873,7 @@ msgstr "Dirección sobreescrita"
 
 #: includes/gateways/paypal/includes/settings-paypal.php:85
 msgid "PayPal allows us to send one address. If you are using PayPal for shipping labels you may prefer to send the shipping address rather than billing."
-msgstr "PayPal nos permite enviar una dirección. Si estás usando PayPal para etiquetas de envío probablemente prefieras la dirección de entrega en lugar de la dirección principal. (También es útil para la protección al vendedor de PayPal)"
+msgstr "PayPal nos permite enviar una dirección. Si estás usando PayPal para etiquetas de envío probablemente prefieras la dirección de entrega en lugar de la dirección principal. (También es útil para la protección al vendedor de PayPal)."
 
 #: includes/gateways/paypal/includes/settings-paypal.php:84
 msgid "Send shipping details to PayPal instead of billing."
@@ -8971,7 +8971,7 @@ msgstr "El pedido #%1$s ha cambiado su estado a \"En espera\" debido a una contr
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:294
 msgid "Payment for order %s reversed"
-msgstr "El pago del pedido #%s ha sido revertido."
+msgstr "El pago del pedido #%s ha sido revertido"
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:280
 msgid "Order #%1$s has been marked as refunded - PayPal reason code: %2$s"
@@ -8986,7 +8986,7 @@ msgstr "Pago a través de %s IPN."
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:203
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-pdt-handler.php:125
 msgid "Payment pending (%s)."
-msgstr "Pendiente de pago: %s"
+msgstr "Pendiente de pago: %s."
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:193
 msgid "IPN payment completed"
@@ -9002,7 +9002,7 @@ msgstr "Error de Validación: la cantidad de PayPal no es igual (bruto %s)."
 
 #: includes/gateways/paypal/includes/class-wc-gateway-paypal-ipn-handler.php:135
 msgid "Validation error: PayPal currencies do not match (code %s)."
-msgstr "Error de Validación: No coinciden las divisas en PayPal (código %s)"
+msgstr "Error de Validación: No coinciden las divisas en PayPal (código %s)."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:305
 msgid "Refunded %1$s - Refund ID: %2$s"
@@ -9010,7 +9010,7 @@ msgstr "Reembolso %1$s - ID de devolución: %2$s"
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:212
 msgid "PayPal does not support your store currency."
-msgstr "Paypal no soporta la moneda establecida"
+msgstr "Paypal no soporta la moneda establecida."
 
 #: includes/gateways/paypal/class-wc-gateway-paypal.php:212
 msgid "Gateway disabled"
@@ -9047,7 +9047,7 @@ msgstr "Aceptar COD (Pago contra entrega) si se trata de un pedido virtual"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:109
 msgid "Accept for virtual orders"
-msgstr "Aceptar para pedidos de productos virtuales."
+msgstr "Aceptar para pedidos de productos virtuales"
 
 #: includes/gateways/cod/class-wc-gateway-cod.php:105
 msgid "Select shipping methods"
@@ -14869,11 +14869,11 @@ msgstr "Reiniciar los ajustes de rastreo de uso"
 
 #: includes/api/class-wc-rest-system-status-tools-controller.php:165
 msgid "Delete ALL tax rates"
-msgstr "Eliminar TODOS los impuestos."
+msgstr "Eliminar TODOS los impuestos"
 
 #: includes/api/class-wc-rest-system-status-tools-controller.php:164
 msgid "Delete all WooCommerce tax rates"
-msgstr "Eliminar TODOS los impuestos de WooCommerce."
+msgstr "Eliminar TODOS los impuestos de WooCommerce"
 
 #: includes/api/class-wc-rest-system-status-tools-controller.php:156
 msgid "Install pages"
@@ -14953,7 +14953,7 @@ msgstr "Ajustes de rastreo de uso exitosamente reiniciados."
 
 #: includes/api/class-wc-rest-system-status-tools-controller.php:437
 msgid "Tax rates successfully deleted"
-msgstr "Ratios de Impuesto han sido eliminados correctamente."
+msgstr "Ratios de Impuesto han sido eliminados correctamente"
 
 #: includes/api/class-wc-rest-system-status-tools-controller.php:426
 msgid "Sessions successfully cleared"
@@ -15023,7 +15023,7 @@ msgstr "Pago en entrega"
 #: includes/admin/class-wc-admin-setup-wizard.php:615
 #: includes/admin/class-wc-admin-setup-wizard.php:618
 msgid "PayPal email address"
-msgstr "Email registrado en PayPal:"
+msgstr "Email registrado en PayPal"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:487
 msgid "Rate (%)"
@@ -15237,7 +15237,7 @@ msgstr "¡Comenzar!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:228
 msgid "No time right now? If you don’t want to go through the wizard, you can skip and return to the WordPress dashboard. Come back anytime if you change your mind!"
-msgstr "¿Sin tiempo por el momento? Si no quieres usar el asistente, puedes saltar este paso y volver al Escritorio de WordPress. Regresa cuando quieras si cambias de parecer."
+msgstr "¿Sin tiempo por el momento? Si no quieres usar el asistente, puedes saltar este paso y volver al Escritorio de WordPress. ¡Regresa cuando quieras si cambias de parecer!"
 
 #: includes/admin/class-wc-admin-setup-wizard.php:227
 msgid "Thank you for choosing WooCommerce to power your online store! This quick setup wizard will help you configure the basic settings. <strong>It’s completely optional and shouldn’t take longer than five minutes.</strong>"
@@ -15509,7 +15509,7 @@ msgstr "Nombre del producto"
 
 #: includes/admin/class-wc-admin-post-types.php:1549
 msgid "Search for a customer&hellip;"
-msgstr "Busqueda por"
+msgstr "Busqueda por&hellip;"
 
 #: includes/admin/class-wc-admin-post-types.php:1513
 msgid "Show all types"
@@ -15987,7 +15987,7 @@ msgstr "El pedido ha sido restaurado a la revisión %s"
 #: includes/admin/class-wc-admin-post-types.php:156
 #: includes/admin/class-wc-admin-post-types.php:159
 msgid "Order updated."
-msgstr "Pedido actualizado"
+msgstr "Pedido actualizado."
 
 #. translators: %s: product url
 #: includes/admin/class-wc-admin-post-types.php:148
@@ -16568,7 +16568,7 @@ msgstr "Términos"
 #: includes/widgets/class-wc-widget-product-categories.php:49
 #: includes/widgets/class-wc-widget-products.php:53
 msgid "Order by"
-msgstr "Ordenar por:"
+msgstr "Ordenar por"
 
 #: includes/admin/class-wc-admin-menus.php:62
 #: includes/admin/meta-boxes/class-wc-meta-box-product-data.php:100
@@ -16657,7 +16657,7 @@ msgstr "Editar atributo"
 
 #: includes/admin/class-wc-admin-attributes.php:205
 msgid "Attribute updated successfully"
-msgstr "Atributo actualizado con éxito."
+msgstr "Atributo actualizado con éxito"
 
 #. translators: %s: attribute name
 #: includes/admin/class-wc-admin-attributes.php:124
@@ -16671,7 +16671,7 @@ msgstr "Slug \"%s\" ya está en uso. Cámbialo, por favor."
 #: includes/admin/class-wc-admin-attributes.php:119
 #: includes/admin/class-wc-admin-attributes.php:149
 msgid "Please, provide an attribute name and slug."
-msgstr "Por favor, proveea un nombre de atributo y slug"
+msgstr "Por favor, proveea un nombre de atributo y slug."
 
 #. translators: %s: attribute name
 #: includes/admin/class-wc-admin-attributes.php:102
@@ -16746,7 +16746,7 @@ msgstr "Introduzca algún texto, o algunos atributos separados por barras (|)."
 #: includes/admin/class-wc-admin-assets.php:251
 #: includes/admin/meta-boxes/views/html-product-attribute.php:24
 msgid "Value(s)"
-msgstr "Valor/es"
+msgstr "Valor(es)"
 
 #: includes/admin/class-wc-admin-assets.php:250
 #: includes/admin/meta-boxes/views/html-order-download-permission.php:10
